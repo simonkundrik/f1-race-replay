@@ -80,6 +80,7 @@ class InsightsMenu(QMainWindow):
             [
                 ("Lap Time & Gap Evolution", "Lap time and gap trends per driver", self.launch_lap_time_chart),
                 ("Sector Times", "Per-lap sector breakdown with session & personal bests", self.launch_sector_times),
+                ("Strategy Predictor", "Likely next stop, tyre and rejoin position per driver", self.launch_strategy_predictor),
             ]
         ))
         
@@ -241,6 +242,13 @@ class InsightsMenu(QMainWindow):
         window.show()
         self.opened_windows.append(window)
     
+    def launch_strategy_predictor(self):
+        print("🚀 Launching: Strategy Predictor")
+        from src.insights.strategy_predictor_window import StrategyPredictorWindow
+        window = StrategyPredictorWindow()
+        window.show()
+        self.opened_windows.append(window)
+
     def launch_pit_analysis(self):
         print("🚀 Launching: Pit Stop Analysis")
         self.show_placeholder_message("Pit Stop Analysis")
