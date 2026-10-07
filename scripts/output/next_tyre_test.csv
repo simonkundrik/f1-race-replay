@@ -1,0 +1,1262 @@
+softest_lasts,popular_lasts,race,wet,code,pit_lap,actual,neutral,model,model_lap,window,common,rule,hard,naive_lap,from,year
+2,2,Bahrain Grand Prix,False,STR,9,2,False,1.0,26.0,"(22, 31)",2,2,2,,0,2024
+2,2,Bahrain Grand Prix,False,ZHO,9,2,False,1.0,26.0,"(22, 31)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,OCO,10,2,False,1.0,26.0,"(21, 30)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,SAR,10,2,False,1.0,26.0,"(21, 30)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,LEC,11,2,False,1.0,23.0,"(18, 27)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,MAG,11,2,False,1.0,25.0,"(20, 29)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,RUS,11,2,False,1.0,23.0,"(18, 27)",2,2,2,,0,2024
+1,2,Bahrain Grand Prix,False,BOT,12,2,False,1.0,24.0,"(19, 28)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,GAS,12,2,False,1.0,24.0,"(19, 28)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,HAM,12,2,False,1.0,22.0,"(17, 26)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,PER,12,2,False,1.0,22.0,"(17, 26)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,PIA,12,2,False,1.0,22.0,"(17, 26)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,NOR,13,2,False,1.0,21.0,"(17, 25)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,RIC,13,2,False,1.0,21.0,"(17, 25)",2,2,2,9.0,0,2024
+1,2,Bahrain Grand Prix,False,SAI,14,2,False,1.0,21.0,"(17, 25)",2,2,2,10.0,0,2024
+1,2,Bahrain Grand Prix,False,TSU,14,2,False,1.0,23.0,"(19, 27)",2,2,2,10.0,0,2024
+1,2,Bahrain Grand Prix,False,ALB,15,2,False,1.0,23.0,"(19, 27)",2,2,2,11.0,0,2024
+1,2,Bahrain Grand Prix,False,ALO,15,2,False,1.0,21.0,"(17, 25)",2,2,2,11.0,0,2024
+1,2,Bahrain Grand Prix,False,VER,17,2,False,2.0,14.0,"(14, 15)",2,2,2,12.0,0,2024
+1,2,Bahrain Grand Prix,False,HUL,20,2,False,,,,2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,STR,27,2,False,1.0,28.0,"(23, 33)",2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,SAR,28,2,False,1.0,27.0,"(24, 31)",2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,ZHO,28,2,False,1.0,28.0,"(24, 32)",2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,BOT,30,2,False,1.0,27.0,"(26, 32)",2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,OCO,30,2,False,1.0,26.0,"(26, 30)",2,1,2,,2,2024
+2,2,Bahrain Grand Prix,False,GAS,31,2,False,1.0,27.0,"(27, 31)",2,1,2,27.5,2,2024
+2,2,Bahrain Grand Prix,False,RUS,31,2,False,1.0,27.0,"(27, 31)",2,1,2,27.5,2,2024
+2,2,Bahrain Grand Prix,False,MAG,32,2,False,1.0,28.0,"(28, 31)",2,1,2,27.5,2,2024
+2,2,Bahrain Grand Prix,False,HAM,33,2,False,1.0,29.0,"(29, 31)",2,1,2,28.0,2,2024
+2,2,Bahrain Grand Prix,False,NOR,33,2,False,1.0,29.0,"(29, 32)",2,1,2,28.0,2,2024
+2,2,Bahrain Grand Prix,False,LEC,34,2,False,1.0,30.0,"(30, 32)",2,1,2,29.0,2,2024
+2,2,Bahrain Grand Prix,False,PIA,34,2,False,1.0,30.0,"(30, 32)",2,1,2,29.0,2,2024
+2,2,Bahrain Grand Prix,False,TSU,34,2,False,1.0,30.0,"(30, 33)",2,1,2,29.0,2,2024
+2,2,Bahrain Grand Prix,False,RIC,35,0,False,1.0,31.0,"(31, 32)",2,1,2,30.0,2,2024
+2,2,Bahrain Grand Prix,False,SAI,35,2,False,1.0,31.0,"(31, 33)",2,1,2,30.0,2,2024
+1,2,Bahrain Grand Prix,False,ALB,36,2,False,1.0,32.0,"(32, 33)",2,1,2,30.0,2,2024
+1,2,Bahrain Grand Prix,False,PER,36,0,False,1.0,32.0,"(32, 33)",2,1,2,30.0,2,2024
+1,2,Bahrain Grand Prix,False,VER,37,0,False,1.0,34.0,"(34, 35)",2,1,2,31.0,2,2024
+1,2,Bahrain Grand Prix,False,SAR,40,0,False,1.0,36.0,"(36, 38)",2,0,2,,2,2024
+0,2,Bahrain Grand Prix,False,ALO,41,2,False,1.0,37.0,"(37, 37)",2,0,2,33.0,2,2024
+0,2,Bahrain Grand Prix,False,HUL,41,0,False,1.0,37.0,"(37, 37)",2,0,2,,2,2024
+0,2,Bahrain Grand Prix,False,GAS,43,0,False,1.0,39.0,"(39, 41)",2,0,2,,2,2024
+2,2,Saudi Arabian Grand Prix,False,ALB,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,ALO,7,2,True,0.0,25.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,BEA,7,2,True,1.0,24.0,"(20, 29)",2,2,2,,0,2024
+2,2,Saudi Arabian Grand Prix,False,BOT,7,2,True,1.0,24.0,"(20, 29)",2,2,2,,0,2024
+2,2,Saudi Arabian Grand Prix,False,LEC,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,MAG,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,OCO,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,PER,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,PIA,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,RIC,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,RUS,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,SAR,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,TSU,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,VER,7,2,True,0.0,26.0,"(21, 30)",2,2,2,,1,2024
+2,2,Saudi Arabian Grand Prix,False,HUL,33,2,False,0.0,34.0,"(29, 39)",2,2,2,7.0,1,2024
+1,2,Saudi Arabian Grand Prix,False,BOT,35,0,False,,,,2,1,2,,2,2024
+2,2,Saudi Arabian Grand Prix,False,HAM,36,0,False,0.0,35.0,"(32, 41)",2,2,2,7.0,1,2024
+2,2,Saudi Arabian Grand Prix,False,NOR,37,0,False,0.0,34.0,"(33, 40)",2,2,2,7.0,1,2024
+0,2,Saudi Arabian Grand Prix,False,ZHO,41,0,False,0.0,37.0,"(37, 38)",2,2,2,7.0,1,2024
+2,2,Australian Grand Prix,False,ALB,6,2,False,0.0,30.0,"(26, 35)",2,2,2,,1,2024
+2,2,Australian Grand Prix,False,ZHO,6,2,False,1.0,28.0,"(23, 32)",2,2,2,,0,2024
+2,2,Australian Grand Prix,False,HAM,7,2,False,1.0,28.0,"(23, 32)",2,2,2,,0,2024
+2,2,Australian Grand Prix,False,MAG,7,2,False,0.0,30.0,"(26, 35)",2,2,2,,1,2024
+2,2,Australian Grand Prix,False,BOT,8,2,False,0.0,30.0,"(26, 35)",2,2,2,,1,2024
+2,2,Australian Grand Prix,False,RUS,8,2,False,0.0,31.0,"(26, 35)",2,2,2,,1,2024
+2,2,Australian Grand Prix,False,STR,8,2,False,0.0,30.0,"(26, 35)",2,2,2,,1,2024
+2,2,Australian Grand Prix,False,LEC,9,2,False,0.0,31.0,"(26, 35)",2,2,2,6.0,1,2024
+2,2,Australian Grand Prix,False,OCO,9,2,False,0.0,31.0,"(26, 35)",2,2,2,6.0,1,2024
+2,2,Australian Grand Prix,False,PIA,9,2,False,0.0,31.0,"(26, 35)",2,2,2,6.0,1,2024
+2,2,Australian Grand Prix,False,TSU,9,2,False,0.0,31.0,"(26, 35)",2,2,2,6.0,1,2024
+1,2,Australian Grand Prix,False,NOR,14,2,False,0.0,32.0,"(27, 37)",2,2,2,8.0,1,2024
+1,2,Australian Grand Prix,False,PER,14,2,False,0.0,32.0,"(27, 37)",2,2,2,8.0,1,2024
+1,2,Australian Grand Prix,False,OCO,16,2,False,,,,2,1,2,,2,2024
+1,2,Australian Grand Prix,False,SAI,16,2,False,2.0,13.0,"(13, 17)",2,2,2,8.0,1,2024
+1,1,Australian Grand Prix,False,ALO,17,1,True,0.0,44.0,"(39, 50)",2,1,2,8.0,2,2024
+1,2,Australian Grand Prix,False,GAS,17,2,True,2.0,13.0,"(13, 17)",2,2,2,8.0,1,2024
+1,1,Australian Grand Prix,False,HUL,17,1,True,0.0,44.0,"(39, 50)",2,1,2,8.0,2,2024
+2,2,Australian Grand Prix,False,ALB,27,2,False,,,,2,1,2,,2,2024
+2,2,Australian Grand Prix,False,RIC,29,2,False,0.0,33.0,"(29, 38)",2,1,2,,2,2024
+2,2,Australian Grand Prix,False,MAG,33,2,False,0.0,33.0,"(29, 37)",2,1,2,27.0,2,2024
+2,2,Australian Grand Prix,False,LEC,34,2,False,0.0,33.0,"(30, 37)",2,1,2,27.0,2,2024
+2,2,Australian Grand Prix,False,HUL,35,2,False,0.0,34.0,"(31, 38)",2,2,2,27.0,1,2024
+2,2,Australian Grand Prix,False,PER,35,2,False,0.0,35.0,"(31, 40)",2,1,2,27.0,2,2024
+2,2,Australian Grand Prix,False,ZHO,35,2,False,0.0,32.0,"(31, 36)",2,1,2,27.0,2,2024
+1,2,Australian Grand Prix,False,BOT,36,2,False,0.0,33.0,"(32, 37)",2,1,2,28.0,2,2024
+1,2,Australian Grand Prix,False,TSU,36,2,False,0.0,34.0,"(32, 38)",2,1,2,28.0,2,2024
+1,2,Australian Grand Prix,False,STR,37,2,False,0.0,33.0,"(33, 37)",2,1,2,29.0,2,2024
+1,2,Australian Grand Prix,False,PIA,39,2,False,0.0,35.0,"(35, 38)",2,1,2,34.5,2,2024
+1,2,Australian Grand Prix,False,NOR,40,2,False,0.0,36.0,"(36, 40)",2,1,2,35.0,2,2024
+1,2,Australian Grand Prix,False,ALO,41,2,False,0.0,37.0,"(37, 39)",2,2,2,35.0,1,2024
+1,2,Australian Grand Prix,False,GAS,41,2,False,,,,2,1,2,35.0,2,2024
+1,2,Australian Grand Prix,False,SAI,41,2,False,0.0,38.0,"(38, 41)",2,1,2,35.0,2,2024
+1,2,Australian Grand Prix,False,OCO,42,2,False,0.0,38.0,"(38, 41)",2,1,2,,2,2024
+0,2,Australian Grand Prix,False,RUS,45,2,False,0.0,41.0,"(41, 42)",2,1,2,35.5,2,2024
+1,2,Japanese Grand Prix,False,NOR,11,2,False,0.0,25.0,"(21, 29)",2,2,2,6.5,1,2024
+1,2,Japanese Grand Prix,False,PIA,12,2,False,0.0,25.0,"(21, 30)",2,2,2,6.5,1,2024
+1,2,Japanese Grand Prix,False,STR,12,1,False,1.0,28.0,"(24, 32)",2,2,2,6.5,0,2024
+1,2,Japanese Grand Prix,False,ALO,13,1,False,2.0,18.0,"(13, 22)",2,2,2,6.5,0,2024
+1,2,Japanese Grand Prix,False,PER,15,1,False,2.0,17.0,"(12, 21)",2,2,2,7.0,1,2024
+1,2,Japanese Grand Prix,False,SAI,15,1,False,2.0,17.0,"(13, 22)",2,2,2,7.0,1,2024
+1,2,Japanese Grand Prix,False,GAS,16,1,False,,,,2,1,2,9.0,2,2024
+1,2,Japanese Grand Prix,False,VER,16,1,False,2.0,18.0,"(14, 22)",2,2,2,9.0,1,2024
+1,1,Japanese Grand Prix,False,OCO,19,2,False,0.0,31.0,"(26, 35)",1,1,2,12.0,2,2024
+1,1,Japanese Grand Prix,False,BOT,22,2,False,0.0,32.0,"(29, 35)",1,1,2,,2,2024
+1,2,Japanese Grand Prix,False,MAG,22,2,False,2.0,26.0,"(22, 32)",2,2,2,12.0,1,2024
+1,1,Japanese Grand Prix,False,RUS,22,2,False,0.0,30.0,"(24, 33)",1,1,2,12.0,2,2024
+1,1,Japanese Grand Prix,False,SAR,22,2,False,0.0,30.0,"(24, 33)",1,1,2,12.0,2,2024
+1,2,Japanese Grand Prix,False,STR,22,2,False,0.0,34.0,"(30, 37)",2,2,2,,1,2024
+1,1,Japanese Grand Prix,False,TSU,22,2,False,0.0,32.0,"(29, 36)",1,1,2,,2,2024
+2,2,Japanese Grand Prix,False,HAM,23,2,False,1.0,24.0,"(21, 28)",1,1,2,12.0,2,2024
+2,2,Japanese Grand Prix,False,LEC,26,2,False,0.0,28.0,"(25, 31)",2,2,2,15.0,1,2024
+2,2,Japanese Grand Prix,False,NOR,26,2,False,0.0,28.0,"(25, 31)",2,1,2,22.0,2,2024
+1,2,Japanese Grand Prix,False,GAS,32,2,False,0.0,32.0,"(29, 35)",2,2,2,22.0,1,2024
+1,2,Japanese Grand Prix,False,PIA,32,2,False,0.0,28.0,"(28, 30)",2,1,2,22.0,2,2024
+1,2,Japanese Grand Prix,False,ALO,33,2,False,0.0,31.0,"(29, 34)",2,2,2,22.0,1,2024
+1,2,Japanese Grand Prix,False,HUL,33,2,False,0.0,29.0,"(29, 29)",2,1,2,22.0,2,2024
+1,2,Japanese Grand Prix,False,OCO,33,1,False,0.0,31.0,"(29, 34)",2,1,2,22.0,2,2024
+2,2,Japanese Grand Prix,False,PER,33,2,False,0.0,32.0,"(29, 35)",2,2,2,22.0,1,2024
+1,2,Japanese Grand Prix,False,SAR,34,1,False,0.0,33.0,"(30, 35)",2,1,2,22.0,2,2024
+1,2,Japanese Grand Prix,False,STR,34,0,False,0.0,33.0,"(30, 35)",2,1,2,,2,2024
+2,2,Japanese Grand Prix,False,VER,34,2,False,0.0,32.0,"(31, 35)",2,2,2,22.0,1,2024
+2,2,Japanese Grand Prix,False,SAI,36,2,False,0.0,32.0,"(32, 34)",2,2,2,32.0,1,2024
+1,2,Japanese Grand Prix,False,RUS,37,1,False,0.0,33.0,"(33, 35)",2,1,2,32.0,2,2024
+1,2,Japanese Grand Prix,False,HAM,39,1,False,0.0,35.0,"(35, 36)",2,1,2,32.5,2,2024
+1,2,Japanese Grand Prix,False,SAR,41,0,False,,,,2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,HUL,8,2,False,0.0,28.0,"(24, 33)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,TSU,8,1,False,1.0,28.0,"(23, 32)",2,2,2,,0,2024
+2,2,Chinese Grand Prix,False,ZHO,8,2,False,0.0,28.0,"(24, 33)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,ALB,9,1,False,0.0,27.0,"(23, 31)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,BOT,9,2,False,0.0,27.0,"(23, 31)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,HAM,9,1,False,1.0,29.0,"(25, 33)",2,2,2,,0,2024
+2,2,Chinese Grand Prix,False,OCO,9,2,False,0.0,27.0,"(23, 31)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,STR,9,1,False,1.0,29.0,"(25, 33)",2,2,2,,0,2024
+1,2,Chinese Grand Prix,False,ALO,11,2,False,0.0,25.0,"(21, 29)",2,2,2,8.0,1,2024
+1,2,Chinese Grand Prix,False,GAS,11,2,False,0.0,25.0,"(21, 29)",2,2,2,8.0,1,2024
+1,2,Chinese Grand Prix,False,RUS,11,1,False,0.0,25.0,"(21, 29)",2,2,2,8.0,1,2024
+1,2,Chinese Grand Prix,False,SAR,12,1,False,2.0,25.0,"(20, 30)",2,2,2,9.0,0,2024
+1,2,Chinese Grand Prix,False,PER,13,2,False,0.0,21.0,"(18, 25)",2,2,2,9.0,1,2024
+1,2,Chinese Grand Prix,False,VER,13,2,False,0.0,21.0,"(18, 25)",2,2,2,9.0,1,2024
+1,2,Chinese Grand Prix,False,RIC,14,1,False,2.0,11.0,"(10, 16)",2,2,2,9.0,1,2024
+1,2,Chinese Grand Prix,False,PIA,16,1,False,2.0,12.0,"(12, 13)",2,2,2,9.0,1,2024
+1,1,Chinese Grand Prix,False,MAG,17,2,False,0.0,50.0,"(45, 55)",2,1,2,9.0,2,2024
+1,2,Chinese Grand Prix,False,SAI,17,2,False,2.0,13.0,"(13, 14)",2,2,2,9.0,1,2024
+1,2,Chinese Grand Prix,False,HAM,21,2,False,2.0,20.0,"(17, 24)",2,2,2,,1,2024
+1,2,Chinese Grand Prix,False,LEC,21,2,False,2.0,17.0,"(17, 18)",2,2,2,11.0,1,2024
+1,2,Chinese Grand Prix,False,STR,21,2,False,2.0,20.0,"(17, 24)",2,2,2,,1,2024
+1,2,Chinese Grand Prix,False,NOR,22,2,True,2.0,18.0,"(18, 20)",2,2,2,11.0,1,2024
+1,2,Chinese Grand Prix,False,ALB,23,2,True,2.0,23.0,"(20, 27)",2,2,2,,1,2024
+1,2,Chinese Grand Prix,False,ALO,23,0,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,GAS,23,2,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,HUL,23,2,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,OCO,23,2,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,PER,23,2,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,RUS,23,2,True,2.0,25.0,"(21, 28)",2,2,2,,1,2024
+1,2,Chinese Grand Prix,False,TSU,23,2,True,2.0,22.0,"(19, 26)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,VER,23,2,True,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,ZHO,23,2,True,,,,2,1,2,,2,2024
+2,2,Chinese Grand Prix,False,PIA,24,2,True,2.0,20.0,"(20, 20)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,SAR,24,2,True,2.0,20.0,"(20, 20)",2,2,2,,1,2024
+2,2,Chinese Grand Prix,False,STR,26,1,True,,,,2,1,2,,2,2024
+0,1,Chinese Grand Prix,False,MAG,27,1,True,0.0,41.0,"(37, 44)",2,1,2,23.0,2,2024
+1,2,Chinese Grand Prix,False,STR,35,2,False,2.0,37.0,"(33, 40)",2,2,2,,1,2024
+1,2,Chinese Grand Prix,False,GAS,38,1,False,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,ZHO,40,0,False,,,,2,1,2,,2,2024
+1,2,Chinese Grand Prix,False,ALO,43,1,False,,,,2,2,2,38.0,0,2024
+1,2,Miami Grand Prix,False,ALB,10,2,False,0.0,31.0,"(27, 36)",2,2,2,,1,2024
+1,2,Miami Grand Prix,False,BOT,11,2,False,1.0,26.0,"(22, 31)",2,2,2,,0,2024
+1,2,Miami Grand Prix,False,SAR,11,2,False,0.0,31.0,"(26, 35)",2,2,2,,1,2024
+1,2,Miami Grand Prix,False,STR,11,2,False,0.0,30.0,"(26, 35)",2,2,2,,1,2024
+1,2,Miami Grand Prix,False,GAS,12,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2024
+1,2,Miami Grand Prix,False,HUL,12,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2024
+1,2,Miami Grand Prix,False,PER,17,2,False,0.0,27.0,"(23, 31)",2,2,2,11.0,1,2024
+1,2,Miami Grand Prix,False,LEC,19,2,False,2.0,15.0,"(15, 19)",2,2,2,11.0,1,2024
+1,1,Miami Grand Prix,False,ALO,22,1,False,0.0,39.0,"(34, 44)",2,1,2,11.5,2,2024
+1,1,Miami Grand Prix,False,MAG,22,1,False,0.0,39.0,"(34, 44)",2,1,2,11.5,2,2024
+1,2,Miami Grand Prix,False,OCO,22,2,False,2.0,18.0,"(18, 21)",2,2,2,11.5,1,2024
+2,2,Miami Grand Prix,False,VER,23,2,True,2.0,20.0,"(20, 22)",2,2,2,11.5,1,2024
+2,2,Miami Grand Prix,False,RUS,24,2,False,2.0,20.0,"(20, 22)",2,2,2,11.5,1,2024
+1,1,Miami Grand Prix,False,HAM,26,1,False,0.0,37.0,"(32, 42)",2,1,2,14.5,2,2024
+2,2,Miami Grand Prix,False,PIA,27,2,False,0.0,30.0,"(26, 35)",2,2,2,17.0,1,2024
+2,2,Miami Grand Prix,False,SAI,27,2,False,0.0,30.0,"(26, 35)",2,2,2,17.0,1,2024
+2,2,Miami Grand Prix,False,HUL,28,1,True,,,,2,1,2,,2,2024
+2,2,Miami Grand Prix,False,MAG,28,1,True,,,,2,2,2,,1,2024
+2,2,Miami Grand Prix,False,PER,28,1,True,,,,2,1,2,,2,2024
+0,1,Miami Grand Prix,False,RIC,28,1,True,0.0,37.0,"(32, 41)",2,1,2,17.0,2,2024
+2,2,Miami Grand Prix,False,STR,28,1,True,,,,2,1,2,,2,2024
+2,2,Miami Grand Prix,False,TSU,28,2,True,0.0,31.0,"(26, 35)",2,2,2,17.0,1,2024
+2,2,Miami Grand Prix,False,ZHO,28,0,True,0.0,31.0,"(26, 35)",2,2,2,17.0,1,2024
+2,2,Miami Grand Prix,False,BOT,29,1,True,,,,2,1,2,,2,2024
+2,2,Miami Grand Prix,False,NOR,29,2,True,0.0,32.0,"(27, 36)",2,2,2,18.0,1,2024
+1,2,Miami Grand Prix,False,PIA,40,1,False,,,,2,1,2,28.0,2,2024
+0,2,Miami Grand Prix,False,ALB,53,0,False,,,,2,1,2,28.0,2,2024
+2,2,Emilia Romagna Grand Prix,False,ALO,7,2,False,1.0,30.0,"(25, 34)",2,2,2,,0,2024
+2,2,Emilia Romagna Grand Prix,False,ALB,8,2,False,0.0,33.0,"(29, 38)",2,2,2,,1,2024
+2,2,Emilia Romagna Grand Prix,False,BOT,8,2,False,0.0,33.0,"(29, 38)",2,2,2,,1,2024
+2,2,Emilia Romagna Grand Prix,False,GAS,8,2,False,1.0,30.0,"(25, 34)",2,2,2,,0,2024
+1,2,Emilia Romagna Grand Prix,False,RIC,11,2,False,0.0,32.0,"(28, 37)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,TSU,12,2,False,0.0,32.0,"(28, 37)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,HUL,13,2,False,0.0,31.0,"(27, 35)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,RUS,21,2,False,2.0,17.0,"(17, 20)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,NOR,22,2,False,2.0,18.0,"(18, 27)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,ALB,23,1,False,0.0,30.0,"(27, 34)",2,2,2,,1,2024
+1,2,Emilia Romagna Grand Prix,False,PIA,23,2,False,0.0,25.0,"(22, 29)",2,2,2,8.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,VER,24,2,False,0.0,25.0,"(22, 29)",2,2,2,9.5,1,2024
+1,2,Emilia Romagna Grand Prix,False,LEC,25,2,False,0.0,25.0,"(22, 29)",2,2,2,11.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,OCO,25,2,False,0.0,25.0,"(22, 29)",2,2,2,11.0,1,2024
+2,2,Emilia Romagna Grand Prix,False,HAM,27,2,False,0.0,26.0,"(23, 29)",2,2,2,12.0,1,2024
+2,2,Emilia Romagna Grand Prix,False,SAI,27,2,False,0.0,26.0,"(23, 29)",2,2,2,12.0,1,2024
+2,2,Emilia Romagna Grand Prix,False,ALB,28,1,False,0.0,31.0,"(27, 35)",2,2,2,,1,2024
+2,2,Emilia Romagna Grand Prix,False,GAS,30,1,False,0.0,32.0,"(28, 36)",2,1,2,,2,2024
+0,1,Emilia Romagna Grand Prix,False,SAR,31,1,False,0.0,27.0,"(27, 31)",2,1,2,21.0,2,2024
+0,1,Emilia Romagna Grand Prix,False,ZHO,33,1,False,0.0,29.0,"(29, 31)",2,1,2,21.0,2,2024
+2,2,Emilia Romagna Grand Prix,False,MAG,37,2,False,0.0,33.0,"(33, 34)",2,2,2,22.0,1,2024
+1,1,Emilia Romagna Grand Prix,False,PER,37,1,False,0.0,33.0,"(33, 34)",2,1,2,22.0,2,2024
+2,2,Emilia Romagna Grand Prix,False,STR,37,2,False,0.0,33.0,"(33, 34)",2,2,2,22.0,1,2024
+1,2,Emilia Romagna Grand Prix,False,ALO,40,1,False,0.0,36.0,"(36, 37)",2,1,2,,2,2024
+0,2,Emilia Romagna Grand Prix,False,RUS,52,1,False,0.0,48.0,"(48, 48)",2,1,2,30.0,2,2024
+0,2,Emilia Romagna Grand Prix,False,ALO,59,0,False,,,,2,2,2,,1,2024
+1,2,Monaco Grand Prix,False,BOT,15,2,False,,,,2,2,2,,1,2024
+2,2,Monaco Grand Prix,False,STR,42,2,False,,,,2,2,2,,1,2024
+1,2,Monaco Grand Prix,False,STR,48,0,False,1.0,44.0,"(44, 47)",2,1,2,,2,2024
+1,2,Monaco Grand Prix,False,HAM,51,2,False,,,,2,2,2,,1,2024
+1,2,Monaco Grand Prix,False,VER,52,2,False,0.0,51.0,"(48, 56)",2,2,2,,1,2024
+1,1,Monaco Grand Prix,False,SAR,57,1,False,0.0,53.0,"(53, 53)",2,1,2,46.5,2,2024
+0,2,Monaco Grand Prix,False,ZHO,70,0,False,1.0,66.0,"(66, 66)",2,1,2,51.0,2,2024
+3,3,Canadian Grand Prix,True,MAG,7,3,False,3.0,10.0,"(3, 16)",2,2,2,,4,2024
+3,3,Canadian Grand Prix,True,HUL,12,3,False,3.0,8.0,"(8, 10)",3,3,2,,4,2024
+3,3,Canadian Grand Prix,True,ZHO,24,3,False,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,ALB,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,ALO,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,GAS,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,HAM,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,HUL,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,LEC,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,MAG,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,PER,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,PIA,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,RUS,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,SAI,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,STR,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,VER,25,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,NOR,26,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,RIC,26,3,True,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,GAS,40,2,False,,,,3,2,2,25.0,3,2024
+3,3,Canadian Grand Prix,True,MAG,41,1,False,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,BOT,42,1,False,,,,3,2,2,25.0,3,2024
+3,3,Canadian Grand Prix,True,HAM,43,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,PER,43,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,RIC,43,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,SAI,43,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,ALB,44,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,ALO,44,2,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,HUL,44,1,False,,,,3,2,2,,3,2024
+3,3,Canadian Grand Prix,True,OCO,44,1,False,,,,3,2,2,25.0,3,2024
+3,3,Canadian Grand Prix,True,PIA,44,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,STR,44,2,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,TSU,44,1,False,,,,3,2,2,25.0,3,2024
+3,3,Canadian Grand Prix,True,ZHO,44,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,RUS,45,2,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,VER,45,1,False,,,,3,2,2,26.5,3,2024
+3,3,Canadian Grand Prix,True,NOR,47,1,False,,,,3,1,2,43.0,3,2024
+1,1,Canadian Grand Prix,True,ZHO,52,1,False,,,,3,3,2,41.0,1,2024
+0,1,Canadian Grand Prix,True,HAM,54,2,True,,,,3,3,2,41.0,1,2024
+0,1,Canadian Grand Prix,True,MAG,54,1,True,,,,3,3,2,,1,2024
+0,1,Canadian Grand Prix,True,RUS,54,1,True,,,,3,3,2,41.0,2,2024
+2,2,Spanish Grand Prix,False,TSU,9,1,False,1.0,30.0,"(25, 34)",2,2,2,,0,2024
+2,2,Spanish Grand Prix,False,ZHO,9,1,False,1.0,30.0,"(25, 34)",2,2,2,,0,2024
+2,2,Spanish Grand Prix,False,MAG,10,1,False,1.0,29.0,"(25, 33)",2,2,2,,0,2024
+1,2,Spanish Grand Prix,False,BOT,11,0,False,1.0,27.0,"(23, 31)",2,2,2,,0,2024
+1,1,Spanish Grand Prix,False,HUL,12,1,False,1.0,27.0,"(23, 31)",1,1,2,,0,2024
+1,1,Spanish Grand Prix,False,OCO,13,1,False,2.0,20.0,"(15, 29)",1,1,2,9.0,0,2024
+1,1,Spanish Grand Prix,False,PER,13,0,False,2.0,20.0,"(15, 29)",1,1,2,9.0,0,2024
+1,1,Spanish Grand Prix,False,GAS,14,1,False,2.0,21.0,"(16, 30)",1,1,2,9.5,0,2024
+1,1,Spanish Grand Prix,False,SAR,14,1,False,1.0,29.0,"(22, 33)",1,1,2,9.5,0,2024
+1,1,Spanish Grand Prix,False,RUS,15,1,False,2.0,20.0,"(15, 29)",1,1,2,10.0,0,2024
+1,1,Spanish Grand Prix,False,SAI,15,1,False,1.0,28.0,"(21, 32)",1,1,2,10.0,0,2024
+1,1,Spanish Grand Prix,False,HAM,16,1,False,1.0,21.0,"(17, 25)",1,1,2,11.0,0,2024
+1,1,Spanish Grand Prix,False,RIC,16,1,False,1.0,23.0,"(19, 27)",1,1,2,11.0,0,2024
+1,1,Spanish Grand Prix,False,STR,17,1,False,1.0,18.0,"(14, 22)",1,1,2,12.0,0,2024
+1,1,Spanish Grand Prix,False,VER,17,1,False,1.0,16.0,"(14, 20)",1,1,2,12.0,0,2024
+1,0,Spanish Grand Prix,False,ALB,18,0,False,0.0,50.0,"(46, 54)",1,0,2,13.0,1,2024
+1,1,Spanish Grand Prix,False,ALO,19,1,False,1.0,15.0,"(15, 19)",1,1,2,13.0,0,2024
+1,1,Spanish Grand Prix,False,PIA,21,1,False,1.0,17.0,"(17, 19)",1,1,2,14.0,0,2024
+1,1,Spanish Grand Prix,False,NOR,23,1,False,1.0,20.0,"(20, 23)",1,1,2,14.0,0,2024
+0,1,Spanish Grand Prix,False,LEC,24,1,False,1.0,20.0,"(20, 24)",1,1,2,14.5,0,2024
+0,1,Spanish Grand Prix,False,TSU,27,2,False,2.0,26.0,"(23, 31)",1,0,2,,1,2024
+2,2,Spanish Grand Prix,False,BOT,28,2,False,2.0,24.0,"(24, 27)",1,1,2,,0,2024
+2,2,Spanish Grand Prix,False,MAG,29,2,False,2.0,26.0,"(25, 31)",1,0,2,,1,2024
+2,2,Spanish Grand Prix,False,PER,31,1,False,2.0,27.0,"(27, 29)",1,1,2,,0,2024
+2,2,Spanish Grand Prix,False,SAR,34,2,False,2.0,30.0,"(30, 32)",1,0,2,28.5,1,2024
+2,2,Spanish Grand Prix,False,RUS,36,2,False,2.0,32.0,"(32, 33)",1,0,2,28.5,1,2024
+2,2,Spanish Grand Prix,False,SAI,36,2,False,2.0,32.0,"(32, 33)",1,0,2,28.5,1,2024
+2,2,Spanish Grand Prix,False,OCO,37,2,False,2.0,33.0,"(33, 33)",1,2,2,29.0,1,2024
+2,2,Spanish Grand Prix,False,STR,37,2,False,2.0,33.0,"(33, 33)",1,2,2,29.0,1,2024
+2,2,Spanish Grand Prix,False,GAS,38,2,False,2.0,34.0,"(34, 34)",1,2,2,29.0,1,2024
+2,2,Spanish Grand Prix,False,HUL,38,2,False,2.0,34.0,"(34, 34)",1,2,2,29.0,1,2024
+1,1,Spanish Grand Prix,False,ZHO,41,2,False,2.0,37.0,"(37, 37)",1,2,2,36.0,1,2024
+1,1,Spanish Grand Prix,False,RIC,42,2,False,2.0,38.0,"(38, 38)",1,2,2,36.0,1,2024
+1,1,Spanish Grand Prix,False,ALB,43,0,False,2.0,39.0,"(39, 39)",1,1,2,36.0,0,2024
+1,1,Spanish Grand Prix,False,HAM,43,0,False,2.0,39.0,"(39, 39)",1,2,2,36.0,1,2024
+1,1,Spanish Grand Prix,False,TSU,44,0,False,,,,1,1,2,,2,2024
+1,1,Spanish Grand Prix,False,VER,44,0,False,2.0,41.0,"(41, 41)",1,2,2,36.0,1,2024
+1,1,Spanish Grand Prix,False,ALO,45,2,False,2.0,41.0,"(41, 41)",1,2,2,36.0,1,2024
+0,1,Spanish Grand Prix,False,PIA,46,0,False,2.0,42.0,"(42, 43)",1,2,2,37.0,1,2024
+0,1,Spanish Grand Prix,False,LEC,47,0,False,2.0,43.0,"(43, 45)",1,2,2,37.0,1,2024
+0,1,Spanish Grand Prix,False,NOR,47,0,False,2.0,43.0,"(43, 44)",1,2,2,37.0,1,2024
+0,1,Spanish Grand Prix,False,PER,49,0,False,0.0,49.0,"(46, 52)",1,2,2,,1,2024
+2,2,Austrian Grand Prix,False,MAG,10,2,False,0.0,37.0,"(32, 41)",2,2,2,,1,2024
+2,2,Austrian Grand Prix,False,RIC,10,2,False,0.0,37.0,"(32, 41)",2,2,2,,1,2024
+2,2,Austrian Grand Prix,False,ALO,11,1,False,0.0,19.0,"(13, 23)",2,2,2,,1,2024
+2,2,Austrian Grand Prix,False,HUL,11,2,False,0.0,20.0,"(15, 25)",2,2,2,,1,2024
+1,2,Austrian Grand Prix,False,ALB,12,2,False,0.0,18.0,"(13, 23)",2,2,2,,1,2024
+1,2,Austrian Grand Prix,False,LEC,16,1,False,0.0,18.0,"(12, 24)",2,1,2,,2,2024
+1,2,Austrian Grand Prix,False,BOT,19,2,False,0.0,15.0,"(15, 17)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,OCO,19,2,False,0.0,15.0,"(15, 17)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,GAS,20,2,False,0.0,16.0,"(16, 18)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,SAR,20,2,False,0.0,16.0,"(16, 17)",2,2,2,,1,2024
+1,2,Austrian Grand Prix,False,STR,20,1,False,0.0,16.0,"(16, 17)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,HAM,21,2,False,0.0,17.0,"(17, 18)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,PER,21,2,False,0.0,17.0,"(17, 18)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,TSU,21,2,False,0.0,17.0,"(17, 18)",2,2,2,10.0,1,2024
+1,2,Austrian Grand Prix,False,RUS,22,1,False,0.0,18.0,"(18, 19)",2,2,2,11.0,1,2024
+1,2,Austrian Grand Prix,False,SAI,22,2,False,0.0,18.0,"(18, 19)",2,2,2,11.0,1,2024
+1,2,Austrian Grand Prix,False,NOR,23,2,False,0.0,19.0,"(19, 20)",2,2,2,11.0,1,2024
+1,2,Austrian Grand Prix,False,VER,23,2,False,0.0,20.0,"(20, 21)",2,2,2,11.0,1,2024
+1,2,Austrian Grand Prix,False,PIA,25,2,False,0.0,21.0,"(21, 22)",2,2,2,19.0,1,2024
+1,1,Austrian Grand Prix,False,ZHO,28,1,False,0.0,24.0,"(24, 25)",2,1,2,20.0,2,2024
+2,2,Austrian Grand Prix,False,LEC,33,1,False,0.0,29.0,"(29, 30)",2,2,2,,1,2024
+2,2,Austrian Grand Prix,False,ALO,35,2,False,0.0,31.0,"(31, 32)",2,2,2,,1,2024
+2,2,Austrian Grand Prix,False,RIC,37,2,False,0.0,33.0,"(33, 35)",2,1,2,,2,2024
+2,2,Austrian Grand Prix,False,MAG,38,2,False,0.0,34.0,"(34, 36)",2,1,2,20.0,2,2024
+2,2,Austrian Grand Prix,False,ALB,39,2,False,0.0,35.0,"(35, 37)",2,1,2,20.0,2,2024
+2,2,Austrian Grand Prix,False,HUL,39,2,False,0.0,35.0,"(35, 36)",2,1,2,20.0,2,2024
+2,2,Austrian Grand Prix,False,BOT,42,2,False,0.0,38.0,"(38, 40)",2,1,2,37.0,2,2024
+2,2,Austrian Grand Prix,False,GAS,42,1,False,0.0,38.0,"(38, 40)",2,1,2,37.0,2,2024
+2,2,Austrian Grand Prix,False,OCO,43,1,False,0.0,39.0,"(39, 41)",2,1,2,37.0,2,2024
+2,2,Austrian Grand Prix,False,STR,43,2,False,0.0,39.0,"(39, 40)",2,2,2,37.0,1,2024
+1,2,Austrian Grand Prix,False,TSU,44,2,False,0.0,40.0,"(40, 42)",2,1,2,37.0,2,2024
+2,2,Austrian Grand Prix,False,RUS,46,2,False,0.0,42.0,"(42, 43)",2,2,2,39.0,1,2024
+1,2,Austrian Grand Prix,False,SAI,47,1,False,0.0,43.0,"(43, 44)",2,1,2,39.0,2,2024
+1,2,Austrian Grand Prix,False,SAR,49,1,False,0.0,45.0,"(45, 45)",2,1,2,,2,2024
+1,2,Austrian Grand Prix,False,LEC,51,1,False,0.0,47.0,"(47, 48)",2,2,2,,1,2024
+1,2,Austrian Grand Prix,False,NOR,51,1,False,0.0,47.0,"(47, 47)",2,1,2,40.5,2,2024
+1,2,Austrian Grand Prix,False,PER,51,1,False,0.0,47.0,"(47, 47)",2,1,2,40.5,2,2024
+1,2,Austrian Grand Prix,False,PIA,51,1,False,0.0,47.0,"(47, 47)",2,1,2,40.5,2,2024
+1,2,Austrian Grand Prix,False,VER,51,1,False,0.0,48.0,"(48, 48)",2,1,2,40.5,2,2024
+1,2,Austrian Grand Prix,False,ZHO,51,2,False,0.0,47.0,"(47, 47)",2,2,2,40.5,1,2024
+1,2,Austrian Grand Prix,False,HAM,53,1,False,0.0,49.0,"(49, 49)",2,1,2,40.5,2,2024
+0,2,Austrian Grand Prix,False,VER,64,0,False,,,,2,2,2,,1,2024
+0,2,Austrian Grand Prix,False,ALO,68,0,False,,,,2,1,2,49.0,2,2024
+1,2,British Grand Prix,True,ZHO,12,1,False,1.0,24.0,"(20, 29)",2,2,2,,0,2024
+1,2,British Grand Prix,True,LEC,19,3,False,0.0,34.0,"(29, 38)",1,2,2,,1,2024
+1,1,British Grand Prix,True,OCO,19,3,False,1.0,18.0,"(15, 23)",1,1,2,,0,2024
+1,1,British Grand Prix,True,PER,19,3,False,1.0,16.0,"(15, 24)",1,1,2,,2,2024
+1,2,British Grand Prix,True,ZHO,19,3,False,,,,2,2,2,,1,2024
+2,2,British Grand Prix,True,BOT,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,HUL,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,OCO,26,3,False,,,,3,3,2,,1,2024
+2,2,British Grand Prix,True,RIC,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,SAI,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,STR,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,VER,26,3,False,0.0,26.0,"(23, 29)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,ZHO,26,3,False,0.0,29.0,"(26, 33)",3,1,2,,3,2024
+2,2,British Grand Prix,True,ALB,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,ALO,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,HAM,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,LEC,27,3,False,0.0,25.0,"(23, 29)",3,1,2,,3,2024
+2,2,British Grand Prix,True,MAG,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,NOR,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,RUS,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,SAR,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,TSU,27,3,False,0.0,28.0,"(25, 32)",3,3,2,19.0,1,2024
+2,2,British Grand Prix,True,PER,28,3,False,0.0,24.0,"(24, 25)",3,1,2,,3,2024
+2,2,British Grand Prix,True,PIA,28,3,False,0.0,24.0,"(24, 27)",3,3,2,19.0,1,2024
+3,3,British Grand Prix,True,BOT,37,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,LEC,37,0,False,,,,3,1,2,,3,2024
+3,3,British Grand Prix,True,MAG,37,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,PER,37,1,False,,,,3,1,2,,3,2024
+3,3,British Grand Prix,True,RIC,37,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,ZHO,37,0,False,4.0,34.0,"(33, 37)",3,1,2,,3,2024
+3,3,British Grand Prix,True,ALB,38,1,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,ALO,38,1,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,HAM,38,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,OCO,38,1,False,4.0,34.0,"(34, 37)",3,1,2,,3,2024
+3,3,British Grand Prix,True,PIA,38,1,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,SAR,38,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,TSU,38,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,VER,38,2,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,HUL,39,0,False,4.0,35.0,"(35, 37)",3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,NOR,39,0,False,,,,3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,SAI,39,2,False,4.0,35.0,"(35, 37)",3,1,2,24.0,3,2024
+3,3,British Grand Prix,True,STR,39,1,False,4.0,35.0,"(35, 37)",3,1,2,24.0,3,2024
+0,0,British Grand Prix,True,PER,47,0,False,,,,3,3,2,,1,2024
+0,0,British Grand Prix,True,SAI,50,0,False,,,,3,3,2,31.5,2,2024
+2,2,Hungarian Grand Prix,False,ALB,6,2,False,1.0,32.0,"(28, 37)",2,2,2,,0,2024
+2,2,Hungarian Grand Prix,False,MAG,6,2,False,1.0,32.0,"(28, 37)",2,2,2,,0,2024
+2,2,Hungarian Grand Prix,False,OCO,6,2,False,0.0,38.0,"(33, 42)",2,2,2,,1,2024
+2,2,Hungarian Grand Prix,False,ALO,7,1,False,1.0,31.0,"(26, 35)",2,2,2,,0,2024
+2,2,Hungarian Grand Prix,False,RIC,7,2,False,0.0,38.0,"(34, 43)",2,2,2,,1,2024
+2,2,Hungarian Grand Prix,False,ZHO,7,2,False,0.0,38.0,"(33, 42)",2,2,2,,1,2024
+2,2,Hungarian Grand Prix,False,SAR,8,2,False,0.0,39.0,"(34, 43)",2,2,2,,1,2024
+1,2,Hungarian Grand Prix,False,STR,14,1,False,2.0,10.0,"(10, 13)",2,2,2,6.5,0,2024
+1,2,Hungarian Grand Prix,False,BOT,16,2,False,2.0,12.0,"(12, 14)",2,2,2,6.5,1,2024
+1,2,Hungarian Grand Prix,False,HAM,16,2,False,2.0,12.0,"(12, 14)",2,2,2,6.5,1,2024
+1,2,Hungarian Grand Prix,False,NOR,17,2,False,2.0,13.0,"(13, 16)",2,2,2,7.0,1,2024
+1,2,Hungarian Grand Prix,False,PIA,18,2,False,2.0,15.0,"(15, 20)",2,2,2,7.0,1,2024
+1,2,Hungarian Grand Prix,False,SAI,21,2,False,2.0,27.0,"(22, 31)",2,2,2,7.0,1,2024
+1,2,Hungarian Grand Prix,False,VER,21,2,False,2.0,27.0,"(22, 31)",2,2,2,7.0,1,2024
+1,2,Hungarian Grand Prix,False,LEC,23,2,False,0.0,20.0,"(19, 25)",2,2,2,7.0,1,2024
+1,1,Hungarian Grand Prix,False,GAS,28,1,False,0.0,24.0,"(24, 26)",2,1,2,11.0,2,2024
+1,1,Hungarian Grand Prix,False,PER,28,1,False,0.0,24.0,"(24, 26)",2,1,2,11.0,2,2024
+1,2,Hungarian Grand Prix,False,RIC,28,2,False,0.0,24.0,"(24, 28)",2,1,2,,2,2024
+2,2,Hungarian Grand Prix,False,ALB,29,2,False,0.0,25.0,"(25, 28)",2,1,2,,2,2024
+2,2,Hungarian Grand Prix,False,HUL,29,2,False,0.0,25.0,"(25, 27)",2,1,2,,2,2024
+2,2,Hungarian Grand Prix,False,TSU,29,2,False,0.0,25.0,"(25, 26)",2,2,2,11.0,1,2024
+2,2,Hungarian Grand Prix,False,OCO,30,2,False,0.0,26.0,"(26, 28)",2,1,2,,2,2024
+0,1,Hungarian Grand Prix,False,RUS,33,1,False,0.0,29.0,"(29, 29)",2,1,2,16.0,2,2024
+2,2,Hungarian Grand Prix,False,SAR,33,2,False,0.0,29.0,"(29, 30)",2,1,2,29.0,2,2024
+2,2,Hungarian Grand Prix,False,MAG,34,2,False,0.0,30.0,"(30, 31)",2,1,2,29.0,2,2024
+2,2,Hungarian Grand Prix,False,ZHO,36,2,False,0.0,32.0,"(32, 34)",2,1,2,29.0,2,2024
+2,2,Hungarian Grand Prix,False,ALO,37,2,False,0.0,33.0,"(33, 36)",2,2,2,29.5,1,2024
+2,2,Hungarian Grand Prix,False,HAM,40,2,False,0.0,36.0,"(36, 38)",2,1,2,31.5,2,2024
+2,2,Hungarian Grand Prix,False,LEC,40,1,False,0.0,39.0,"(36, 42)",2,1,2,31.5,2,2024
+1,2,Hungarian Grand Prix,False,BOT,45,2,False,0.0,41.0,"(41, 42)",2,1,2,33.5,2,2024
+1,2,Hungarian Grand Prix,False,NOR,45,1,False,0.0,41.0,"(41, 42)",2,1,2,33.5,2,2024
+1,2,Hungarian Grand Prix,False,STR,45,2,False,0.0,41.0,"(41, 43)",2,2,2,33.5,1,2024
+1,2,Hungarian Grand Prix,False,PER,47,1,False,0.0,45.0,"(43, 49)",2,2,2,33.5,1,2024
+1,2,Hungarian Grand Prix,False,PIA,47,1,False,0.0,44.0,"(44, 44)",2,1,2,33.5,2,2024
+1,2,Hungarian Grand Prix,False,SAI,47,1,False,0.0,43.0,"(43, 44)",2,1,2,33.5,2,2024
+1,2,Hungarian Grand Prix,False,VER,49,1,False,0.0,45.0,"(45, 45)",2,1,2,36.0,2,2024
+0,2,Hungarian Grand Prix,False,RUS,53,2,False,0.0,49.0,"(49, 53)",2,2,2,40.0,1,2024
+0,2,Hungarian Grand Prix,False,SAR,63,0,False,0.0,59.0,"(59, 59)",2,1,2,,2,2024
+0,2,Hungarian Grand Prix,False,OCO,64,0,False,0.0,60.0,"(60, 60)",2,1,2,,2,2024
+2,2,Belgian Grand Prix,False,HUL,7,2,False,0.0,21.0,"(17, 26)",2,2,2,,1,2024
+2,2,Belgian Grand Prix,False,ALB,8,1,False,0.0,22.0,"(17, 27)",2,2,2,,1,2024
+2,2,Belgian Grand Prix,False,RIC,8,1,False,1.0,22.0,"(17, 27)",2,2,2,,0,2024
+2,2,Belgian Grand Prix,False,SAR,8,1,False,0.0,22.0,"(17, 27)",2,2,2,,1,2024
+1,2,Belgian Grand Prix,False,GAS,9,2,False,0.0,22.0,"(18, 27)",2,2,2,,1,2024
+1,2,Belgian Grand Prix,False,RUS,10,2,False,0.0,22.0,"(17, 27)",2,2,2,,1,2024
+1,2,Belgian Grand Prix,False,VER,10,2,False,0.0,22.0,"(17, 27)",2,2,2,,1,2024
+1,2,Belgian Grand Prix,False,BOT,11,2,False,0.0,21.0,"(17, 26)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,HAM,11,2,False,0.0,21.0,"(17, 26)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,PER,11,1,False,0.0,21.0,"(17, 26)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,PIA,11,2,False,0.0,21.0,"(17, 26)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,LEC,12,2,False,0.0,20.0,"(16, 25)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,OCO,12,2,False,0.0,20.0,"(16, 25)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,STR,12,1,False,0.0,20.0,"(16, 25)",1,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,ALO,13,1,False,0.0,19.0,"(15, 23)",2,2,2,8.0,1,2024
+1,2,Belgian Grand Prix,False,NOR,15,2,False,0.0,18.0,"(14, 22)",2,2,2,10.5,1,2024
+1,2,Belgian Grand Prix,False,TSU,15,0,False,0.0,18.0,"(14, 22)",2,2,2,10.5,1,2024
+1,2,Belgian Grand Prix,False,MAG,17,2,False,2.0,13.0,"(13, 14)",2,2,2,11.0,1,2024
+2,2,Belgian Grand Prix,False,HUL,20,1,False,,,,2,1,2,,2,2024
+1,1,Belgian Grand Prix,False,SAI,20,1,False,0.0,32.0,"(27, 38)",2,1,2,11.0,2,2024
+2,2,Belgian Grand Prix,False,PER,21,2,False,2.0,17.0,"(17, 18)",2,2,2,,1,2024
+2,2,Belgian Grand Prix,False,RIC,21,0,False,2.0,17.0,"(17, 18)",2,2,2,,1,2024
+2,2,Belgian Grand Prix,False,ALB,23,2,False,0.0,19.0,"(19, 21)",2,2,2,,1,2024
+2,2,Belgian Grand Prix,False,SAR,24,2,False,0.0,20.0,"(20, 22)",2,2,2,21.0,1,2024
+2,2,Belgian Grand Prix,False,LEC,25,2,False,,,,2,1,2,21.0,2,2024
+2,2,Belgian Grand Prix,False,HAM,26,2,False,,,,2,1,2,21.0,2,2024
+2,2,Belgian Grand Prix,False,GAS,28,2,False,,,,2,1,2,22.0,2,2024
+2,2,Belgian Grand Prix,False,SAI,28,2,False,0.0,25.0,"(24, 29)",2,2,2,22.0,1,2024
+2,2,Belgian Grand Prix,False,VER,28,1,False,,,,2,1,2,22.0,2,2024
+1,2,Belgian Grand Prix,False,NOR,29,2,False,,,,2,1,2,23.0,2,2024
+1,2,Belgian Grand Prix,False,OCO,30,2,False,,,,2,1,2,23.0,2,2024
+1,2,Belgian Grand Prix,False,PIA,30,2,False,,,,2,1,2,23.0,2,2024
+0,2,Belgian Grand Prix,False,BOT,35,1,False,,,,2,1,2,26.0,2,2024
+0,2,Belgian Grand Prix,False,PER,42,0,False,,,,2,1,2,,2,2024
+1,2,Dutch Grand Prix,False,ALB,12,2,False,0.0,20.0,"(15, 26)",2,2,2,,1,2024
+1,2,Dutch Grand Prix,False,HUL,14,2,False,0.0,20.0,"(15, 25)",2,2,2,,1,2024
+1,2,Dutch Grand Prix,False,TSU,14,1,False,2.0,29.0,"(22, 35)",2,2,2,,0,2024
+1,2,Dutch Grand Prix,False,BOT,15,2,False,2.0,29.0,"(24, 34)",2,2,2,,0,2024
+1,2,Dutch Grand Prix,False,ZHO,18,2,False,0.0,20.0,"(15, 24)",2,2,2,14.0,1,2024
+1,2,Dutch Grand Prix,False,SAR,22,2,False,2.0,18.0,"(18, 21)",2,2,2,14.0,1,2024
+1,2,Dutch Grand Prix,False,HAM,23,2,False,2.0,19.0,"(19, 22)",2,2,2,14.0,0,2024
+1,2,Dutch Grand Prix,False,LEC,24,2,False,2.0,20.0,"(20, 22)",2,2,2,14.0,1,2024
+1,2,Dutch Grand Prix,False,RUS,25,2,False,2.0,21.0,"(21, 23)",2,2,2,14.5,1,2024
+1,2,Dutch Grand Prix,False,VER,27,2,False,2.0,23.0,"(23, 24)",2,2,2,16.5,1,2024
+1,2,Dutch Grand Prix,False,NOR,28,2,False,2.0,25.0,"(25, 26)",2,2,2,18.0,1,2024
+1,2,Dutch Grand Prix,False,PER,29,2,False,2.0,25.0,"(25, 26)",2,2,2,18.0,1,2024
+1,2,Dutch Grand Prix,False,RIC,29,2,False,2.0,25.0,"(25, 26)",2,2,2,18.0,1,2024
+2,2,Dutch Grand Prix,False,OCO,30,2,False,2.0,26.0,"(26, 27)",2,2,2,20.0,1,2024
+2,2,Dutch Grand Prix,False,SAI,30,2,False,2.0,26.0,"(26, 27)",2,2,2,20.0,1,2024
+2,2,Dutch Grand Prix,False,STR,30,2,False,2.0,26.0,"(26, 27)",2,2,2,20.0,1,2024
+2,2,Dutch Grand Prix,False,ALO,31,2,False,2.0,27.0,"(27, 28)",2,2,2,22.0,1,2024
+2,2,Dutch Grand Prix,False,GAS,32,2,False,2.0,28.0,"(28, 29)",2,2,2,23.0,1,2024
+2,2,Dutch Grand Prix,False,TSU,32,2,False,2.0,31.0,"(28, 35)",2,2,2,,1,2024
+2,2,Dutch Grand Prix,False,PIA,33,2,False,2.0,30.0,"(30, 31)",2,2,2,24.5,1,2024
+0,1,Dutch Grand Prix,False,MAG,40,1,False,0.0,42.0,"(38, 45)",2,1,2,27.0,2,2024
+1,2,Dutch Grand Prix,False,BOT,43,1,False,0.0,47.0,"(43, 50)",2,1,2,,2,2024
+1,2,Dutch Grand Prix,False,HAM,48,0,False,0.0,50.0,"(46, 53)",2,1,2,,2,2024
+1,2,Dutch Grand Prix,False,ZHO,51,0,False,0.0,48.0,"(47, 51)",2,1,2,43.0,2,2024
+0,2,Dutch Grand Prix,False,ALB,54,1,False,0.0,50.0,"(50, 51)",2,1,2,45.5,2,2024
+0,2,Dutch Grand Prix,False,RUS,54,0,False,0.0,51.0,"(50, 54)",2,1,2,45.5,2,2024
+1,2,Italian Grand Prix,False,GAS,10,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2024
+1,2,Italian Grand Prix,False,RIC,11,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2024
+1,2,Italian Grand Prix,False,RUS,11,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2024
+1,2,Italian Grand Prix,False,ALO,12,2,False,0.0,32.0,"(27, 37)",2,2,2,,1,2024
+1,2,Italian Grand Prix,False,MAG,14,2,False,0.0,32.0,"(27, 37)",2,2,2,10.5,1,2024
+1,2,Italian Grand Prix,False,NOR,14,2,False,0.0,32.0,"(27, 37)",2,2,2,10.5,1,2024
+1,2,Italian Grand Prix,False,HAM,15,2,False,0.0,31.0,"(26, 36)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,LEC,15,2,False,0.0,31.0,"(26, 36)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,ZHO,15,2,False,0.0,31.0,"(26, 35)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,COL,16,2,False,0.0,27.0,"(23, 32)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,PIA,16,2,False,0.0,27.0,"(23, 32)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,ALB,17,2,False,0.0,25.0,"(21, 30)",2,2,2,11.0,1,2024
+1,2,Italian Grand Prix,False,SAI,19,2,False,0.0,21.0,"(17, 25)",2,2,2,14.0,1,2024
+1,1,Italian Grand Prix,False,STR,19,2,False,0.0,28.0,"(23, 33)",2,1,2,14.0,2,2024
+1,1,Italian Grand Prix,False,VER,22,2,False,0.0,25.0,"(20, 30)",2,1,2,15.0,2,2024
+1,1,Italian Grand Prix,False,PER,23,2,False,0.0,24.0,"(20, 29)",2,1,2,15.0,2,2024
+2,2,Italian Grand Prix,False,GAS,30,2,False,0.0,26.0,"(26, 28)",2,1,2,,2,2024
+0,1,Italian Grand Prix,False,OCO,31,1,False,0.0,27.0,"(27, 28)",2,1,2,15.0,2,2024
+2,2,Italian Grand Prix,False,HUL,32,2,False,0.0,28.0,"(28, 29)",2,1,2,,2,2024
+2,2,Italian Grand Prix,False,NOR,32,2,False,0.0,28.0,"(28, 30)",2,1,2,,2,2024
+0,1,Italian Grand Prix,False,BOT,33,1,False,0.0,29.0,"(29, 29)",2,1,2,15.0,2,2024
+2,2,Italian Grand Prix,False,RUS,33,2,False,0.0,29.0,"(29, 30)",2,1,2,,2,2024
+1,2,Italian Grand Prix,False,ALO,35,2,False,0.0,31.0,"(31, 32)",2,1,2,32.0,2,2024
+1,1,Italian Grand Prix,False,PER,35,1,False,0.0,31.0,"(31, 34)",2,1,2,32.0,2,2024
+1,1,Italian Grand Prix,False,STR,36,1,False,0.0,32.0,"(32, 33)",2,1,2,32.0,2,2024
+1,2,Italian Grand Prix,False,HAM,37,2,False,0.0,33.0,"(33, 34)",2,1,2,32.0,2,2024
+1,2,Italian Grand Prix,False,PIA,38,2,False,0.0,35.0,"(35, 36)",2,1,2,32.5,2,2024
+1,1,Italian Grand Prix,False,VER,41,1,False,0.0,37.0,"(37, 38)",2,1,2,35.0,2,2024
+0,2,Italian Grand Prix,False,STR,50,0,False,,,,2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,COL,10,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,ALO,11,2,False,0.0,30.0,"(25, 35)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,BOT,11,2,False,0.0,30.0,"(25, 35)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,HAM,12,2,False,0.0,33.0,"(28, 39)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,RUS,12,2,False,0.0,33.0,"(28, 39)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,TSU,12,2,False,0.0,33.0,"(28, 38)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,VER,12,2,False,0.0,33.0,"(28, 39)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,PER,13,2,False,0.0,37.0,"(32, 42)",2,2,2,,1,2024
+1,2,Azerbaijan Grand Prix,False,BEA,14,2,False,0.0,34.0,"(29, 40)",2,2,2,10.5,1,2024
+1,2,Azerbaijan Grand Prix,False,HUL,15,2,False,0.0,31.0,"(26, 36)",2,2,2,11.5,1,2024
+1,2,Azerbaijan Grand Prix,False,PIA,15,2,False,0.0,31.0,"(26, 36)",2,2,2,11.5,1,2024
+1,2,Azerbaijan Grand Prix,False,LEC,16,2,False,0.0,28.0,"(24, 33)",2,2,2,12.0,1,2024
+1,2,Azerbaijan Grand Prix,False,SAI,17,2,False,0.0,25.0,"(20, 29)",2,2,2,12.0,1,2024
+2,2,Azerbaijan Grand Prix,False,STR,22,2,False,0.0,24.0,"(20, 29)",2,1,2,,2,2024
+0,1,Azerbaijan Grand Prix,False,ALB,31,1,False,0.0,27.0,"(27, 29)",2,1,2,12.0,2,2024
+1,1,Azerbaijan Grand Prix,False,ZHO,34,1,False,0.0,30.0,"(30, 31)",2,1,2,12.0,2,2024
+1,1,Azerbaijan Grand Prix,False,NOR,37,1,False,0.0,33.0,"(33, 34)",2,1,2,12.5,2,2024
+0,1,Azerbaijan Grand Prix,False,OCO,49,0,False,0.0,45.0,"(45, 45)",2,1,2,13.0,2,2024
+0,1,Azerbaijan Grand Prix,False,RIC,49,0,False,0.0,45.0,"(45, 45)",2,1,2,13.0,2,2024
+0,2,Azerbaijan Grand Prix,False,VER,49,0,False,,,,2,1,2,,2,2024
+2,2,Singapore Grand Prix,False,RIC,10,1,False,1.0,26.0,"(21, 31)",2,2,2,,0,2024
+1,2,Singapore Grand Prix,False,ALB,11,2,False,0.0,40.0,"(35, 45)",2,2,2,,1,2024
+1,2,Singapore Grand Prix,False,SAI,13,2,False,0.0,47.0,"(42, 53)",1,2,2,,1,2024
+1,2,Singapore Grand Prix,False,HAM,17,2,False,1.0,13.0,"(13, 18)",2,2,2,11.0,0,2024
+1,2,Singapore Grand Prix,False,ALO,25,2,False,0.0,33.0,"(29, 37)",2,2,2,12.0,1,2024
+1,1,Singapore Grand Prix,False,STR,26,1,False,1.0,22.0,"(22, 28)",2,1,2,12.0,2,2024
+2,2,Singapore Grand Prix,False,RUS,27,2,False,0.0,32.0,"(28, 36)",2,2,2,12.0,1,2024
+0,1,Singapore Grand Prix,False,MAG,28,1,False,0.0,24.0,"(24, 29)",2,1,2,13.0,2,2024
+2,2,Singapore Grand Prix,False,PER,28,2,False,0.0,31.0,"(27, 35)",2,2,2,13.0,1,2024
+2,2,Singapore Grand Prix,False,COL,29,2,False,0.0,29.0,"(25, 33)",2,2,2,15.0,1,2024
+2,2,Singapore Grand Prix,False,HUL,29,2,False,0.0,29.0,"(25, 33)",2,2,2,15.0,1,2024
+2,2,Singapore Grand Prix,False,OCO,29,2,False,0.0,29.0,"(25, 33)",2,2,2,15.0,1,2024
+2,2,Singapore Grand Prix,False,VER,29,2,False,0.0,29.0,"(25, 33)",2,2,2,15.0,1,2024
+2,2,Singapore Grand Prix,False,NOR,30,2,False,0.0,29.0,"(27, 33)",2,2,2,17.0,1,2024
+0,1,Singapore Grand Prix,False,BOT,33,1,False,0.0,29.0,"(29, 31)",2,1,2,27.5,2,2024
+2,2,Singapore Grand Prix,False,TSU,33,0,False,0.0,29.0,"(29, 33)",2,2,2,27.5,1,2024
+0,1,Singapore Grand Prix,False,ZHO,34,1,False,0.0,30.0,"(30, 32)",2,1,2,27.5,2,2024
+2,2,Singapore Grand Prix,False,LEC,36,2,False,0.0,32.0,"(32, 34)",2,2,2,28.0,1,2024
+2,2,Singapore Grand Prix,False,GAS,37,0,False,0.0,33.0,"(33, 35)",2,2,2,28.0,1,2024
+2,2,Singapore Grand Prix,False,PIA,38,2,False,0.0,34.0,"(34, 35)",2,2,2,28.0,1,2024
+1,2,Singapore Grand Prix,False,RIC,46,0,False,0.0,42.0,"(42, 42)",2,2,2,,1,2024
+0,2,Singapore Grand Prix,False,MAG,49,0,False,,,,2,2,2,,1,2024
+0,2,Singapore Grand Prix,False,RIC,58,0,False,,,,2,2,2,,0,2024
+1,2,United States Grand Prix,False,ZHO,13,1,False,0.0,34.0,"(29, 39)",1,2,2,,1,2024
+1,2,United States Grand Prix,False,BOT,15,2,False,0.0,32.0,"(28, 37)",1,2,2,,1,2024
+1,2,United States Grand Prix,False,MAG,17,2,False,0.0,31.0,"(26, 36)",1,2,2,,1,2024
+1,2,United States Grand Prix,False,GAS,18,2,False,0.0,30.0,"(25, 34)",1,2,2,13.0,1,2024
+1,2,United States Grand Prix,False,TSU,18,2,False,0.0,30.0,"(25, 34)",1,2,2,13.0,1,2024
+1,2,United States Grand Prix,False,SAI,21,2,False,0.0,26.0,"(21, 30)",2,2,2,16.0,1,2024
+2,2,United States Grand Prix,False,VER,25,2,False,0.0,31.0,"(26, 35)",2,2,2,17.0,1,2024
+2,2,United States Grand Prix,False,ALO,26,2,False,0.0,30.0,"(25, 35)",2,2,2,17.0,1,2024
+2,2,United States Grand Prix,False,LEC,26,2,False,0.0,30.0,"(25, 35)",2,2,2,17.0,1,2024
+2,2,United States Grand Prix,False,PER,26,2,False,0.0,30.0,"(25, 35)",2,2,2,17.0,1,2024
+2,2,United States Grand Prix,False,HUL,27,2,False,0.0,29.0,"(24, 33)",2,2,2,17.0,1,2024
+0,1,United States Grand Prix,False,STR,27,1,False,0.0,34.0,"(29, 40)",2,1,2,17.0,2,2024
+2,2,United States Grand Prix,False,NOR,31,2,False,0.0,29.0,"(28, 34)",2,2,2,21.0,1,2024
+2,2,United States Grand Prix,False,OCO,31,2,False,0.0,29.0,"(27, 34)",2,2,2,21.0,1,2024
+2,2,United States Grand Prix,False,PIA,32,2,False,0.0,29.0,"(28, 33)",2,2,2,21.0,1,2024
+2,2,United States Grand Prix,False,ALB,33,2,False,0.0,29.0,"(29, 33)",2,2,2,,1,2024
+2,2,United States Grand Prix,False,ZHO,35,2,False,0.0,33.0,"(31, 37)",2,2,2,,1,2024
+1,1,United States Grand Prix,False,LAW,36,1,False,0.0,32.0,"(32, 36)",2,1,2,25.5,2,2024
+1,2,United States Grand Prix,False,MAG,38,1,False,,,,2,1,2,,2,2024
+1,1,United States Grand Prix,False,COL,39,1,False,0.0,35.0,"(35, 37)",2,1,2,26.0,2,2024
+1,1,United States Grand Prix,False,RUS,40,1,False,0.0,36.0,"(36, 37)",2,1,2,26.0,2,2024
+0,2,United States Grand Prix,False,OCO,51,0,False,,,,2,1,2,35.0,2,2024
+1,1,Mexico City Grand Prix,False,PER,20,1,False,0.0,17.0,"(16, 24)",2,1,2,,2,2024
+1,2,Mexico City Grand Prix,False,STR,26,2,False,0.0,22.0,"(22, 23)",1,2,2,,1,2024
+1,2,Mexico City Grand Prix,False,VER,26,2,False,0.0,22.0,"(22, 24)",1,2,2,,1,2024
+1,2,Mexico City Grand Prix,False,GAS,28,2,False,0.0,24.0,"(24, 25)",1,2,2,,1,2024
+1,2,Mexico City Grand Prix,False,HAM,28,2,False,0.0,24.0,"(24, 25)",1,2,2,,1,2024
+2,2,Mexico City Grand Prix,False,HUL,29,2,False,0.0,25.0,"(25, 34)",2,2,2,26.0,1,2024
+2,2,Mexico City Grand Prix,False,MAG,30,2,False,0.0,30.0,"(26, 34)",2,2,2,26.0,1,2024
+2,2,Mexico City Grand Prix,False,NOR,30,2,False,0.0,30.0,"(26, 34)",2,2,2,26.0,1,2024
+2,2,Mexico City Grand Prix,False,LEC,31,2,False,0.0,30.0,"(27, 34)",2,2,2,26.0,1,2024
+2,2,Mexico City Grand Prix,False,RUS,31,2,False,0.0,30.0,"(27, 34)",2,2,2,26.0,1,2024
+2,2,Mexico City Grand Prix,False,SAI,32,2,False,0.0,29.0,"(29, 33)",2,2,2,27.0,1,2024
+0,1,Mexico City Grand Prix,False,LAW,39,1,False,0.0,35.0,"(35, 39)",2,1,2,29.0,2,2024
+2,2,Mexico City Grand Prix,False,PIA,39,2,False,0.0,35.0,"(35, 36)",2,2,2,29.0,1,2024
+1,2,Mexico City Grand Prix,False,PER,43,1,False,0.0,39.0,"(39, 42)",2,2,2,,1,2024
+1,1,Mexico City Grand Prix,False,ZHO,43,1,False,0.0,39.0,"(39, 41)",2,1,2,30.0,2,2024
+1,1,Mexico City Grand Prix,False,COL,47,1,False,0.0,43.0,"(43, 44)",2,1,2,30.0,2,2024
+1,1,Mexico City Grand Prix,False,OCO,48,1,False,0.0,44.0,"(44, 45)",2,1,2,30.0,2,2024
+1,1,Mexico City Grand Prix,False,BOT,49,1,False,0.0,45.0,"(45, 46)",2,1,2,30.0,2,2024
+0,2,Mexico City Grand Prix,False,LAW,65,0,False,,,,2,2,2,,1,2024
+0,2,Mexico City Grand Prix,False,PER,68,0,False,,,,2,2,2,,1,2024
+0,2,Mexico City Grand Prix,False,LEC,69,0,False,,,,2,1,2,,2,2024
+3,3,São Paulo Grand Prix,True,LEC,24,3,False,3.0,33.0,"(27, 40)",2,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,HUL,25,3,False,3.0,34.0,"(28, 41)",2,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,COL,26,3,False,3.0,35.0,"(28, 41)",2,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,ALO,27,3,False,3.0,34.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,BEA,27,3,False,3.0,35.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,HAM,27,3,False,3.0,35.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,PER,27,4,False,3.0,35.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,PIA,27,3,False,3.0,33.0,"(26, 40)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,SAI,27,3,False,3.0,35.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,ZHO,27,3,False,3.0,35.0,"(28, 41)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,LAW,28,4,True,3.0,33.0,"(26, 40)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,NOR,28,3,True,3.0,33.0,"(26, 40)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,RUS,28,3,True,3.0,33.0,"(26, 40)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,TSU,28,4,True,3.0,33.0,"(26, 40)",3,2,2,,3,2024
+3,3,São Paulo Grand Prix,True,ALO,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,BEA,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,BOT,32,3,True,3.0,28.0,"(28, 28)",3,4,2,27.0,3,2024
+3,3,São Paulo Grand Prix,True,GAS,32,3,True,3.0,28.0,"(28, 28)",3,4,2,27.0,3,2024
+3,3,São Paulo Grand Prix,True,HAM,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,LEC,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,OCO,32,3,True,3.0,29.0,"(29, 29)",3,4,2,27.0,3,2024
+3,3,São Paulo Grand Prix,True,PER,32,3,True,3.0,28.0,"(28, 28)",3,3,2,,4,2024
+3,3,São Paulo Grand Prix,True,PIA,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,SAI,32,3,True,,,,3,4,2,,3,2024
+3,3,São Paulo Grand Prix,True,VER,32,3,True,3.0,28.0,"(28, 28)",3,4,2,27.0,3,2024
+1,2,Las Vegas Grand Prix,False,ALB,9,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,LEC,9,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,NOR,9,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,STR,9,2,False,0.0,27.0,"(22, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,GAS,10,2,False,0.0,29.0,"(24, 33)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,PIA,10,2,False,0.0,29.0,"(24, 33)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,SAI,10,2,False,0.0,29.0,"(24, 33)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,TSU,10,2,False,0.0,29.0,"(24, 33)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,LAW,11,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,OCO,11,1,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,VER,11,2,False,0.0,28.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,ZHO,11,2,False,0.0,27.0,"(23, 32)",2,2,2,,1,2024
+1,2,Las Vegas Grand Prix,False,RUS,12,2,False,0.0,25.0,"(20, 29)",2,2,2,9.0,1,2024
+1,2,Las Vegas Grand Prix,False,HAM,13,2,False,2.0,9.0,"(9, 15)",2,2,2,9.0,1,2024
+1,2,Las Vegas Grand Prix,False,HUL,14,2,False,2.0,10.0,"(10, 13)",2,2,2,10.0,1,2024
+1,1,Las Vegas Grand Prix,False,COL,16,1,False,0.0,36.0,"(30, 42)",2,1,2,10.0,2,2024
+1,1,Las Vegas Grand Prix,False,BOT,17,1,False,0.0,36.0,"(31, 42)",2,1,2,10.0,2,2024
+1,2,Las Vegas Grand Prix,False,MAG,17,2,False,2.0,13.0,"(13, 14)",2,2,2,10.0,1,2024
+1,1,Las Vegas Grand Prix,False,PER,17,1,False,0.0,36.0,"(31, 42)",2,1,2,10.0,2,2024
+2,2,Las Vegas Grand Prix,False,ALO,24,2,False,,,,2,1,2,,2,2024
+2,2,Las Vegas Grand Prix,False,PIA,25,2,False,,,,2,1,2,,2,2024
+2,2,Las Vegas Grand Prix,False,COL,26,2,False,0.0,25.0,"(22, 28)",2,2,2,,1,2024
+2,2,Las Vegas Grand Prix,False,HAM,27,2,False,,,,2,1,2,,2,2024
+2,2,Las Vegas Grand Prix,False,VER,27,2,False,,,,2,1,2,,2,2024
+2,2,Las Vegas Grand Prix,False,SAI,28,2,False,,,,2,1,2,24.0,2,2024
+2,2,Las Vegas Grand Prix,False,STR,28,2,False,,,,2,1,2,24.0,2,2024
+2,2,Las Vegas Grand Prix,False,TSU,29,2,False,0.0,26.0,"(25, 31)",2,1,2,24.5,2,2024
+2,2,Las Vegas Grand Prix,False,NOR,30,2,False,0.0,26.0,"(26, 29)",2,1,2,25.5,2,2024
+2,2,Las Vegas Grand Prix,False,LEC,31,2,False,0.0,27.0,"(27, 29)",2,1,2,26.5,2,2024
+1,2,Las Vegas Grand Prix,False,PER,32,2,False,0.0,28.0,"(28, 30)",2,2,2,27.0,1,2024
+1,2,Las Vegas Grand Prix,False,RUS,32,2,False,0.0,29.0,"(29, 30)",2,1,2,27.0,2,2024
+1,2,Las Vegas Grand Prix,False,HUL,33,2,False,0.0,29.0,"(29, 31)",2,1,2,27.0,2,2024
+1,2,Las Vegas Grand Prix,False,ZHO,34,2,False,0.0,30.0,"(30, 31)",2,1,2,27.0,2,2024
+1,2,Las Vegas Grand Prix,False,BOT,35,2,False,0.0,31.0,"(31, 32)",2,2,2,28.0,1,2024
+1,2,Las Vegas Grand Prix,False,LAW,38,2,False,0.0,34.0,"(34, 35)",2,1,2,28.5,2,2024
+0,2,Las Vegas Grand Prix,False,OCO,45,0,False,,,,2,1,2,,2,2024
+0,2,Las Vegas Grand Prix,False,NOR,48,0,False,,,,2,1,2,,2,2024
+1,2,Qatar Grand Prix,False,RUS,23,2,False,0.0,48.0,"(42, 53)",2,2,2,,1,2024
+2,2,Qatar Grand Prix,False,BOT,24,2,False,0.0,48.0,"(42, 53)",2,2,2,,1,2024
+2,2,Qatar Grand Prix,False,MAG,27,2,False,0.0,48.0,"(42, 53)",2,2,2,12.0,1,2024
+0,1,Qatar Grand Prix,False,HUL,31,1,False,1.0,27.0,"(27, 28)",2,1,2,,2,2024
+2,2,Qatar Grand Prix,False,HAM,34,2,False,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,PIA,34,2,False,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,SAI,34,2,False,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,ALB,35,0,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,ALO,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+1,2,Qatar Grand Prix,False,BOT,35,1,True,,,,2,1,2,,2,2024
+2,2,Qatar Grand Prix,False,GAS,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,LAW,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,LEC,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,NOR,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,PER,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+1,2,Qatar Grand Prix,False,RUS,35,2,True,,,,2,1,2,,2,2024
+2,2,Qatar Grand Prix,False,TSU,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,VER,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+2,2,Qatar Grand Prix,False,ZHO,35,2,True,0.0,47.0,"(41, 53)",2,2,2,23.0,1,2024
+1,2,Qatar Grand Prix,False,HUL,36,1,True,,,,2,2,2,,1,2024
+1,2,Qatar Grand Prix,False,MAG,36,2,True,,,,2,1,2,,2,2024
+0,2,Qatar Grand Prix,False,NOR,45,2,False,,,,2,1,2,38.5,2,2024
+0,2,Qatar Grand Prix,False,HAM,47,2,False,,,,2,1,2,38.5,2,2024
+0,2,Qatar Grand Prix,False,ALB,55,0,False,,,,2,2,2,40.0,0,2024
+1,2,Abu Dhabi Grand Prix,False,STR,11,2,False,0.0,29.0,"(25, 34)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,ALB,12,2,False,0.0,28.0,"(24, 33)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,MAG,12,2,False,0.0,28.0,"(24, 33)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,ZHO,12,2,False,0.0,28.0,"(24, 33)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,ALO,13,2,False,0.0,27.0,"(23, 32)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,HUL,13,2,False,0.0,28.0,"(23, 32)",2,2,2,4.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,GAS,14,2,False,0.0,26.0,"(22, 30)",2,2,2,5.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,LEC,20,2,False,0.0,22.0,"(18, 26)",2,2,2,12.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,DOO,22,2,False,0.0,22.0,"(18, 26)",2,2,2,12.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,TSU,22,2,False,0.0,22.0,"(18, 26)",2,2,2,12.0,1,2024
+1,2,Abu Dhabi Grand Prix,False,LAW,23,2,False,0.0,22.0,"(19, 25)",2,2,2,12.0,1,2024
+2,2,Abu Dhabi Grand Prix,False,SAI,25,2,False,0.0,22.0,"(21, 26)",2,2,2,12.0,1,2024
+2,2,Abu Dhabi Grand Prix,False,NOR,26,2,False,0.0,23.0,"(23, 26)",2,2,2,12.5,1,2024
+2,2,Abu Dhabi Grand Prix,False,RUS,26,2,False,0.0,22.0,"(22, 26)",2,2,2,12.5,1,2024
+2,2,Abu Dhabi Grand Prix,False,MAG,29,2,False,0.0,28.0,"(25, 33)",2,1,2,,2,2024
+2,2,Abu Dhabi Grand Prix,False,VER,29,2,False,0.0,25.0,"(25, 27)",2,2,2,13.0,1,2024
+2,2,Abu Dhabi Grand Prix,False,PIA,32,2,False,0.0,28.0,"(28, 30)",2,1,2,,2,2024
+2,2,Abu Dhabi Grand Prix,False,STR,32,2,False,0.0,28.0,"(28, 31)",2,1,2,,2,2024
+1,1,Abu Dhabi Grand Prix,False,HAM,34,1,False,0.0,30.0,"(30, 31)",2,0,2,13.5,2,2024
+1,2,Abu Dhabi Grand Prix,False,ALO,37,2,False,0.0,33.0,"(33, 34)",2,0,2,30.5,2,2024
+1,2,Abu Dhabi Grand Prix,False,ZHO,39,2,False,0.0,35.0,"(35, 36)",2,0,2,30.5,2,2024
+0,2,Abu Dhabi Grand Prix,False,MAG,55,0,False,,,,2,2,2,,0,2024
+2,1,Australian Grand Prix,False,COL,9,2,False,0.0,34.0,"(28, 39)",2,1,2,,2,2026
+1,2,Australian Grand Prix,False,ALO,11,0,False,1.0,19.0,"(14, 25)",2,2,2,,0,2026
+1,2,Australian Grand Prix,False,GAS,11,2,False,0.0,39.0,"(33, 44)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,LAW,11,2,False,0.0,39.0,"(33, 44)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,NOR,11,2,False,0.0,39.0,"(33, 44)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,OCO,11,2,False,0.0,39.0,"(33, 44)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,SAI,11,2,False,1.0,19.0,"(14, 25)",2,2,2,,0,2026
+1,2,Australian Grand Prix,False,STR,11,2,False,0.0,39.0,"(33, 44)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,ALB,12,2,True,0.0,41.0,"(35, 47)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,ANT,12,2,True,0.0,41.0,"(35, 47)",2,2,2,,1,2026
+1,1,Australian Grand Prix,False,BOT,12,2,True,1.0,8.0,"(8, 13)",2,1,2,,2,2026
+1,2,Australian Grand Prix,False,RUS,12,2,True,0.0,41.0,"(35, 47)",2,2,2,,1,2026
+1,2,Australian Grand Prix,False,BEA,18,2,True,0.0,44.0,"(38, 50)",2,2,2,11.0,1,2026
+1,2,Australian Grand Prix,False,BOR,18,2,True,0.0,44.0,"(38, 50)",2,2,2,11.0,1,2026
+1,2,Australian Grand Prix,False,LIN,18,2,True,0.0,44.0,"(38, 50)",2,2,2,11.0,1,2026
+1,2,Australian Grand Prix,False,PER,18,2,True,0.0,44.0,"(38, 50)",2,2,2,11.0,1,2026
+1,0,Australian Grand Prix,False,VER,18,1,True,1.0,14.0,"(14, 16)",2,0,2,11.0,2,2026
+2,2,Australian Grand Prix,False,LEC,25,2,False,0.0,37.0,"(32, 42)",2,2,2,12.0,1,2026
+2,2,Australian Grand Prix,False,STR,26,0,False,,,,2,0,2,,2,2026
+2,2,Australian Grand Prix,False,HAM,28,2,False,0.0,35.0,"(30, 40)",2,2,2,12.0,1,2026
+2,2,Australian Grand Prix,False,ALB,33,0,False,,,,2,0,2,,2,2026
+2,2,Australian Grand Prix,False,BOR,33,2,False,,,,2,0,2,,2,2026
+2,2,Australian Grand Prix,False,LAW,33,0,False,,,,2,0,2,,2,2026
+2,2,Australian Grand Prix,False,SAI,33,1,False,,,,2,0,2,,2,2026
+1,2,Australian Grand Prix,False,NOR,34,1,True,0.0,30.0,"(30, 35)",2,0,2,,2,2026
+1,2,Australian Grand Prix,False,STR,34,0,True,,,,2,2,2,,0,2026
+1,2,Australian Grand Prix,False,STR,39,0,False,,,,2,2,2,,0,2026
+1,2,Australian Grand Prix,False,VER,41,2,False,,,,2,2,2,33.0,1,2026
+1,2,Australian Grand Prix,False,PER,43,0,False,,,,2,0,2,33.0,2,2026
+0,2,Australian Grand Prix,False,SAI,45,0,False,,,,2,2,2,,1,2026
+0,0,Australian Grand Prix,False,COL,46,0,False,0.0,42.0,"(42, 42)",2,0,2,33.0,2,2026
+2,2,Chinese Grand Prix,False,LAW,9,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+2,2,Chinese Grand Prix,False,SAI,9,2,False,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+2,2,Chinese Grand Prix,False,VER,9,2,False,1.0,23.0,"(18, 28)",2,2,2,,0,2026
+1,2,Chinese Grand Prix,False,ANT,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,BEA,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,BOT,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,GAS,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,HAD,10,2,True,,,,2,1,2,,2,2026
+1,2,Chinese Grand Prix,False,HAM,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,LEC,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,RUS,10,2,True,0.0,32.0,"(27, 36)",2,2,2,,1,2026
+1,2,Chinese Grand Prix,False,PER,11,2,True,0.0,31.0,"(27, 36)",2,2,2,,1,2026
+0,1,Chinese Grand Prix,False,OCO,29,1,False,0.0,38.0,"(32, 43)",2,1,2,10.0,2,2026
+0,1,Chinese Grand Prix,False,ALO,31,1,False,0.0,38.0,"(33, 43)",2,1,2,10.0,2,2026
+0,1,Chinese Grand Prix,False,COL,32,1,False,0.0,38.0,"(33, 43)",2,1,2,10.0,2,2026
+1,1,Chinese Grand Prix,False,HUL,35,1,False,0.0,36.0,"(31, 41)",2,1,2,10.0,2,2026
+1,1,Chinese Grand Prix,False,LIN,42,1,False,0.0,38.0,"(38, 41)",2,1,2,10.0,2,2026
+0,2,Chinese Grand Prix,False,OCO,46,0,False,,,,2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,BEA,16,2,False,0.0,26.0,"(21, 30)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,NOR,16,2,False,0.0,26.0,"(21, 30)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,COL,17,2,False,0.0,25.0,"(21, 30)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,LEC,17,2,False,0.0,25.0,"(21, 30)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,LIN,18,2,False,0.0,25.0,"(21, 30)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,PIA,18,2,False,0.0,25.0,"(21, 30)",2,2,2,,1,2026
+1,1,Japanese Grand Prix,False,BOT,19,1,False,0.0,25.0,"(20, 30)",2,1,2,,2,2026
+1,2,Japanese Grand Prix,False,HAD,19,2,False,0.0,25.0,"(20, 29)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,OCO,19,2,False,0.0,25.0,"(20, 29)",2,2,2,,1,2026
+1,2,Japanese Grand Prix,False,ALO,21,2,False,0.0,25.0,"(21, 29)",2,2,2,17.0,1,2026
+1,2,Japanese Grand Prix,False,PER,21,2,False,0.0,25.0,"(21, 29)",2,2,2,17.0,1,2026
+1,2,Japanese Grand Prix,False,RUS,21,2,False,0.0,25.0,"(21, 29)",2,2,2,17.0,1,2026
+1,2,Japanese Grand Prix,False,STR,21,2,False,0.0,25.0,"(21, 29)",2,2,2,17.0,1,2026
+1,2,Japanese Grand Prix,False,ALB,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,ANT,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,BOR,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,GAS,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,HAM,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,LAW,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,SAI,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+1,2,Japanese Grand Prix,False,VER,22,2,True,0.0,24.0,"(20, 29)",2,2,2,18.0,1,2026
+2,2,Japanese Grand Prix,False,HUL,23,2,True,0.0,23.0,"(19, 27)",2,2,2,18.0,1,2026
+0,2,Japanese Grand Prix,False,ALB,45,0,False,,,,2,1,2,,2,2026
+2,2,Miami Grand Prix,False,BOT,6,0,True,0.0,29.0,"(25, 34)",1,2,2,,1,2026
+2,2,Miami Grand Prix,False,VER,6,2,True,0.0,29.0,"(25, 34)",1,2,2,,1,2026
+1,0,Miami Grand Prix,False,RUS,20,2,False,0.0,30.0,"(26, 35)",1,0,2,6.0,1,2026
+1,1,Miami Grand Prix,False,BOT,21,1,False,0.0,32.0,"(28, 35)",1,1,2,,0,2026
+1,0,Miami Grand Prix,False,LEC,21,2,False,0.0,30.0,"(26, 35)",1,0,2,6.0,1,2026
+1,0,Miami Grand Prix,False,STR,21,0,False,0.0,30.0,"(26, 35)",1,0,2,6.0,1,2026
+2,2,Miami Grand Prix,False,ANT,26,2,False,0.0,28.0,"(24, 33)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,BEA,26,2,False,0.0,28.0,"(24, 33)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,ALB,27,2,False,0.0,29.0,"(25, 33)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,HAM,27,2,False,0.0,29.0,"(25, 33)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,NOR,27,2,False,0.0,29.0,"(25, 33)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,LIN,28,2,False,0.0,33.0,"(29, 37)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,PIA,28,2,False,0.0,33.0,"(29, 37)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,SAI,28,2,False,0.0,33.0,"(29, 37)",2,2,2,13.0,1,2026
+2,2,Miami Grand Prix,False,PER,29,2,False,0.0,32.0,"(27, 36)",2,2,2,20.5,1,2026
+2,2,Miami Grand Prix,False,BOT,30,1,False,,,,2,2,2,,1,2026
+2,2,Miami Grand Prix,False,COL,31,2,False,0.0,30.0,"(27, 34)",2,2,2,26.0,1,2026
+2,2,Miami Grand Prix,False,OCO,31,2,False,0.0,30.0,"(27, 34)",2,2,2,26.0,1,2026
+2,2,Miami Grand Prix,False,BOR,32,2,False,0.0,29.0,"(28, 33)",2,2,2,26.0,1,2026
+1,2,Miami Grand Prix,False,STR,37,0,False,0.0,37.0,"(34, 41)",2,2,2,,0,2026
+2,2,Miami Grand Prix,False,ALO,41,0,False,0.0,37.0,"(37, 37)",2,2,2,27.0,1,2026
+2,1,Canadian Grand Prix,True,BOT,9,1,False,,,,1,1,2,,0,2026
+1,0,Canadian Grand Prix,True,PIA,12,1,False,0.0,8.0,"(8, 10)",0,0,2,,1,2026
+1,1,Canadian Grand Prix,True,STR,14,0,False,1.0,67.0,"(66, 67)",1,1,2,2.0,0,2026
+1,1,Canadian Grand Prix,True,NOR,15,1,False,,,,1,0,2,,1,2026
+1,1,Canadian Grand Prix,True,PER,15,1,False,,,,1,1,2,,0,2026
+1,1,Canadian Grand Prix,True,OCO,16,1,False,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+1,1,Canadian Grand Prix,True,BOR,18,1,False,,,,1,1,2,13.5,0,2026
+1,1,Canadian Grand Prix,True,ALO,20,0,False,1.0,67.0,"(66, 67)",1,1,2,2.0,0,2026
+1,1,Canadian Grand Prix,True,HUL,20,1,False,,,,1,1,2,13.5,0,2026
+2,2,Canadian Grand Prix,True,BOT,29,0,False,,,,1,0,2,,1,2026
+2,2,Canadian Grand Prix,True,PER,29,0,False,,,,1,0,2,,1,2026
+2,2,Canadian Grand Prix,True,BEA,30,1,False,1.0,67.0,"(66, 67)",1,1,2,2.0,0,2026
+2,2,Canadian Grand Prix,True,COL,30,2,False,0.0,26.0,"(26, 27)",1,0,2,2.0,1,2026
+2,2,Canadian Grand Prix,True,GAS,30,2,False,0.0,26.0,"(26, 27)",1,0,2,2.0,1,2026
+2,2,Canadian Grand Prix,True,LAW,30,0,False,0.0,26.0,"(26, 27)",1,0,2,2.0,1,2026
+2,2,Canadian Grand Prix,True,OCO,30,0,False,,,,1,0,2,15.0,1,2026
+2,2,Canadian Grand Prix,True,SAI,30,1,False,,,,1,0,2,15.0,1,2026
+2,2,Canadian Grand Prix,True,ANT,31,1,True,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+2,2,Canadian Grand Prix,True,HAD,31,1,True,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+2,2,Canadian Grand Prix,True,HAM,31,1,True,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+2,2,Canadian Grand Prix,True,LEC,31,1,True,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+2,2,Canadian Grand Prix,True,VER,31,1,True,1.0,67.0,"(65, 67)",1,1,2,2.0,0,2026
+0,1,Canadian Grand Prix,True,BOT,49,1,False,,,,1,1,2,,0,2026
+1,1,Canadian Grand Prix,True,STR,49,1,False,1.0,67.0,"(65, 67)",1,1,2,16.5,0,2026
+0,1,Canadian Grand Prix,True,PIA,51,0,False,,,,1,0,2,,1,2026
+0,1,Canadian Grand Prix,True,HAD,52,0,False,,,,1,0,2,18.0,1,2026
+0,1,Canadian Grand Prix,True,HAD,62,0,False,,,,1,1,2,29.0,0,2026
+2,2,Monaco Grand Prix,False,OCO,9,2,False,0.0,54.0,"(49, 60)",2,2,2,2.0,1,2026
+2,2,Monaco Grand Prix,False,PER,9,1,False,,,,2,2,2,,1,2026
+1,2,Monaco Grand Prix,False,HUL,12,2,False,0.0,63.0,"(57, 69)",2,2,2,3.0,1,2026
+1,2,Monaco Grand Prix,False,HAM,28,2,False,2.0,24.0,"(24, 24)",2,2,2,3.5,1,2026
+1,2,Monaco Grand Prix,False,RUS,31,2,False,2.0,27.0,"(27, 27)",2,2,2,4.0,1,2026
+2,2,Monaco Grand Prix,False,HAD,32,2,False,2.0,28.0,"(28, 28)",2,2,2,4.0,1,2026
+2,2,Monaco Grand Prix,False,COL,35,2,False,0.0,31.0,"(31, 31)",2,2,2,4.0,1,2026
+2,2,Monaco Grand Prix,False,LEC,35,2,False,0.0,31.0,"(31, 31)",2,2,2,4.0,1,2026
+2,2,Monaco Grand Prix,False,ANT,37,2,False,0.0,34.0,"(34, 34)",2,2,2,4.0,1,2026
+2,2,Monaco Grand Prix,False,ALB,43,0,False,0.0,39.0,"(39, 39)",2,2,2,10.5,1,2026
+1,2,Monaco Grand Prix,False,BOR,43,1,False,0.0,39.0,"(39, 39)",2,1,2,,2,2026
+2,2,Monaco Grand Prix,False,LAW,44,0,False,0.0,40.0,"(40, 40)",2,2,2,10.5,1,2026
+0,2,Monaco Grand Prix,False,GAS,45,2,False,0.0,41.0,"(41, 41)",2,2,2,10.5,1,2026
+0,2,Monaco Grand Prix,False,PIA,48,2,False,0.0,44.0,"(44, 44)",2,2,2,28.0,1,2026
+0,2,Monaco Grand Prix,False,SAI,52,0,False,0.0,48.0,"(48, 48)",2,2,2,29.5,1,2026
+0,2,Monaco Grand Prix,False,ALO,58,0,False,,,,2,2,2,,0,2026
+0,2,Monaco Grand Prix,False,BOR,58,1,False,,,,2,2,2,,1,2026
+0,2,Monaco Grand Prix,False,HUL,58,2,False,0.0,54.0,"(54, 54)",2,0,2,,2,2026
+0,2,Monaco Grand Prix,False,ALB,59,0,False,,,,2,2,2,50.5,0,2026
+0,2,Monaco Grand Prix,False,COL,59,2,False,0.0,55.0,"(55, 56)",2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,LIN,59,1,False,0.0,55.0,"(55, 55)",2,2,2,31.0,1,2026
+0,2,Monaco Grand Prix,False,OCO,59,2,False,0.0,55.0,"(55, 55)",2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,PER,59,0,False,0.0,55.0,"(55, 55)",2,2,2,,1,2026
+0,2,Monaco Grand Prix,False,PIA,59,0,False,,,,2,0,2,,2,2026
+0,2,Monaco Grand Prix,False,SAI,59,0,False,,,,2,2,2,50.5,0,2026
+0,2,Monaco Grand Prix,False,GAS,60,2,True,,,,2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,HAD,60,2,True,0.0,56.0,"(56, 57)",2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,HAM,60,0,True,0.0,56.0,"(56, 56)",2,0,2,,2,2026
+0,2,Monaco Grand Prix,False,LAW,60,0,True,,,,2,2,2,50.5,0,2026
+0,2,Monaco Grand Prix,False,LEC,60,0,True,0.0,56.0,"(56, 57)",2,0,2,,2,2026
+0,2,Monaco Grand Prix,False,RUS,60,0,True,0.0,56.0,"(56, 57)",2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,ANT,61,0,True,0.0,58.0,"(58, 59)",2,0,2,50.5,2,2026
+0,2,Monaco Grand Prix,False,ALB,65,0,True,,,,2,2,2,59.0,0,2026
+0,2,Monaco Grand Prix,False,ALO,65,0,True,,,,2,2,2,,0,2026
+0,0,Monaco Grand Prix,False,BOR,65,0,True,,,,0,2,2,,0,2026
+0,0,Monaco Grand Prix,False,COL,65,2,True,0.0,60.0,"(60, 60)",0,0,2,59.0,2,2026
+0,0,Monaco Grand Prix,False,HUL,65,2,True,0.0,60.0,"(60, 60)",0,0,2,,2,2026
+0,0,Monaco Grand Prix,False,LIN,65,1,True,0.0,60.0,"(60, 60)",0,0,2,59.0,1,2026
+0,0,Monaco Grand Prix,False,OCO,65,2,True,0.0,60.0,"(60, 60)",0,0,2,59.0,2,2026
+0,0,Monaco Grand Prix,False,PER,65,0,True,,,,0,2,2,,0,2026
+0,2,Monaco Grand Prix,False,SAI,65,0,True,,,,2,2,2,59.0,0,2026
+0,0,Monaco Grand Prix,False,ANT,66,0,True,,,,0,2,2,59.0,0,2026
+0,0,Monaco Grand Prix,False,GAS,66,2,True,0.0,61.0,"(61, 61)",0,0,2,59.0,2,2026
+0,0,Monaco Grand Prix,False,HAD,66,2,True,0.0,61.0,"(61, 61)",0,0,2,59.0,2,2026
+0,0,Monaco Grand Prix,False,HAM,66,0,True,,,,0,2,2,,0,2026
+0,2,Monaco Grand Prix,False,LAW,66,0,True,,,,2,2,2,59.0,0,2026
+0,0,Monaco Grand Prix,False,PIA,66,0,True,,,,0,2,2,,0,2026
+0,0,Monaco Grand Prix,False,RUS,66,0,True,,,,0,2,2,59.0,0,2026
+1,2,Barcelona Grand Prix,False,HAM,11,2,False,2.0,21.0,"(16, 26)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,LAW,11,2,False,0.0,18.0,"(14, 23)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,COL,12,2,False,2.0,22.0,"(17, 26)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,PER,12,2,False,2.0,22.0,"(17, 26)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,RUS,12,2,False,2.0,16.0,"(11, 20)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,VER,12,1,False,2.0,19.0,"(14, 23)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,ALB,13,2,False,2.0,14.0,"(10, 18)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,HUL,13,2,False,2.0,20.0,"(16, 24)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,NOR,13,2,False,2.0,14.0,"(10, 18)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,OCO,13,2,False,2.0,20.0,"(16, 24)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,ANT,14,2,False,2.0,13.0,"(10, 17)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,BOT,14,2,False,2.0,13.0,"(10, 17)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,GAS,14,2,False,2.0,13.0,"(10, 17)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,PIA,14,2,False,2.0,13.0,"(10, 17)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,SAI,14,2,False,2.0,19.0,"(14, 23)",2,2,2,,0,2026
+1,2,Barcelona Grand Prix,False,BOR,15,2,False,2.0,13.0,"(11, 17)",2,2,2,12.0,1,2026
+1,2,Barcelona Grand Prix,False,HAD,15,2,False,2.0,13.0,"(11, 17)",2,2,2,12.0,1,2026
+1,2,Barcelona Grand Prix,False,LEC,16,2,False,2.0,14.0,"(12, 18)",2,2,2,12.0,1,2026
+1,2,Barcelona Grand Prix,False,BEA,18,2,False,2.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,1,Barcelona Grand Prix,False,ALO,21,2,False,0.0,58.0,"(54, 61)",2,1,2,13.0,2,2026
+1,2,Barcelona Grand Prix,False,LIN,22,2,False,2.0,18.0,"(18, 18)",2,2,2,13.0,1,2026
+1,2,Barcelona Grand Prix,False,HAM,27,1,False,2.0,39.0,"(34, 43)",2,1,2,,2,2026
+2,2,Barcelona Grand Prix,False,ALB,29,2,False,2.0,40.0,"(36, 43)",2,1,2,,2,2026
+2,2,Barcelona Grand Prix,False,VER,29,2,False,2.0,25.0,"(25, 26)",2,2,2,,1,2026
+2,2,Barcelona Grand Prix,False,SAI,30,2,False,2.0,40.0,"(37, 43)",2,1,2,,2,2026
+2,2,Barcelona Grand Prix,False,PER,31,2,False,2.0,39.0,"(36, 42)",2,1,2,29.0,2,2026
+2,2,Barcelona Grand Prix,False,HAD,32,2,False,2.0,40.0,"(37, 44)",2,1,2,29.0,2,2026
+2,2,Barcelona Grand Prix,False,BOR,33,2,False,2.0,41.0,"(38, 43)",2,1,2,29.0,2,2026
+2,2,Barcelona Grand Prix,False,ALB,34,0,False,2.0,48.0,"(45, 50)",2,1,2,,2,2026
+2,2,Barcelona Grand Prix,False,COL,34,2,False,2.0,39.0,"(36, 42)",2,1,2,29.0,2,2026
+2,2,Barcelona Grand Prix,False,OCO,34,1,False,2.0,39.0,"(37, 42)",2,1,2,29.5,2,2026
+2,2,Barcelona Grand Prix,False,LAW,35,2,False,2.0,39.0,"(36, 41)",2,1,2,29.5,2,2026
+2,2,Barcelona Grand Prix,False,NOR,35,2,False,2.0,40.0,"(37, 42)",2,1,2,29.5,2,2026
+2,2,Barcelona Grand Prix,False,PIA,36,2,False,2.0,40.0,"(37, 43)",2,1,2,30.0,2,2026
+2,2,Barcelona Grand Prix,False,RUS,36,2,False,2.0,39.0,"(36, 42)",2,1,2,30.0,2,2026
+2,2,Barcelona Grand Prix,False,ANT,37,2,False,2.0,40.0,"(37, 43)",2,1,2,31.0,2,2026
+2,2,Barcelona Grand Prix,False,LIN,37,2,False,2.0,44.0,"(41, 47)",2,1,2,32.0,2,2026
+2,2,Barcelona Grand Prix,False,BEA,39,0,False,2.0,42.0,"(39, 45)",2,1,2,34.0,2,2026
+2,2,Barcelona Grand Prix,False,LEC,39,2,False,2.0,41.0,"(38, 44)",2,1,2,33.0,2,2026
+2,2,Barcelona Grand Prix,False,PER,39,1,False,2.0,49.0,"(46, 51)",2,1,2,,2,2026
+2,2,Barcelona Grand Prix,False,GAS,40,2,False,2.0,40.0,"(36, 43)",2,1,2,34.0,2,2026
+2,2,Barcelona Grand Prix,False,VER,40,1,False,2.0,48.0,"(45, 50)",2,1,2,,2,2026
+1,2,Barcelona Grand Prix,False,HAM,41,2,True,2.0,45.0,"(42, 47)",2,2,2,,1,2026
+1,2,Barcelona Grand Prix,False,ALB,50,0,False,0.0,50.0,"(48, 52)",2,2,2,,0,2026
+0,2,Barcelona Grand Prix,False,BOR,53,0,False,0.0,49.0,"(49, 52)",2,1,2,39.5,2,2026
+0,2,Barcelona Grand Prix,False,SAI,55,1,False,0.0,51.0,"(51, 52)",2,1,2,40.0,2,2026
+0,2,Barcelona Grand Prix,False,HAD,58,0,False,0.0,54.0,"(54, 54)",2,1,2,40.5,2,2026
+0,2,Barcelona Grand Prix,False,OCO,58,0,False,0.0,54.0,"(54, 54)",2,2,2,40.5,1,2026
+1,2,Austrian Grand Prix,False,HAM,12,2,False,0.0,21.0,"(15, 26)",2,2,2,,1,2026
+1,2,Austrian Grand Prix,False,GAS,13,2,False,0.0,18.0,"(13, 23)",2,2,2,,1,2026
+1,2,Austrian Grand Prix,False,LEC,13,2,False,0.0,18.0,"(13, 23)",2,2,2,,1,2026
+1,2,Austrian Grand Prix,False,SAI,14,1,False,2.0,28.0,"(23, 33)",2,2,2,,0,2026
+1,2,Austrian Grand Prix,False,BOR,17,1,False,2.0,28.0,"(22, 33)",2,2,2,13.0,0,2026
+1,2,Austrian Grand Prix,False,ALB,18,1,False,0.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,HAD,18,1,False,0.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,LIN,18,2,False,0.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,OCO,18,1,False,0.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,VER,18,2,False,0.0,14.0,"(14, 17)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,LAW,19,2,False,0.0,15.0,"(15, 18)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,PIA,19,2,False,0.0,15.0,"(15, 18)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,RUS,19,2,False,0.0,16.0,"(16, 18)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,COL,20,2,False,0.0,16.0,"(16, 19)",2,2,2,13.0,1,2026
+1,2,Austrian Grand Prix,False,HUL,21,1,False,0.0,17.0,"(17, 19)",2,2,2,17.5,1,2026
+1,2,Austrian Grand Prix,False,NOR,21,2,False,0.0,17.0,"(17, 19)",2,2,2,17.5,1,2026
+1,2,Austrian Grand Prix,False,ALO,24,0,False,2.0,20.0,"(20, 21)",2,2,2,18.0,1,2026
+1,2,Austrian Grand Prix,False,ANT,24,2,False,2.0,21.0,"(21, 22)",2,2,2,18.0,1,2026
+1,2,Austrian Grand Prix,False,BEA,24,2,False,2.0,20.0,"(20, 21)",2,2,2,18.0,1,2026
+1,2,Austrian Grand Prix,False,STR,24,0,False,2.0,20.0,"(20, 21)",2,2,2,18.0,1,2026
+1,2,Austrian Grand Prix,False,HAM,25,0,True,,,,2,1,2,,2,2026
+2,2,Austrian Grand Prix,False,OCO,33,2,False,2.0,29.0,"(29, 32)",2,2,2,,1,2026
+2,2,Austrian Grand Prix,False,ALB,37,2,False,2.0,34.0,"(33, 37)",2,2,2,,1,2026
+2,2,Austrian Grand Prix,False,LEC,37,2,False,,,,2,1,2,,2,2026
+2,2,Austrian Grand Prix,False,GAS,38,1,False,2.0,42.0,"(36, 48)",2,1,2,,2,2026
+2,2,Austrian Grand Prix,False,HAD,40,2,False,2.0,36.0,"(36, 40)",2,2,2,35.0,1,2026
+2,2,Austrian Grand Prix,False,HAM,42,2,False,2.0,42.0,"(38, 45)",2,2,2,,0,2026
+2,2,Austrian Grand Prix,False,PIA,42,2,False,2.0,45.0,"(41, 49)",2,1,2,37.0,2,2026
+1,2,Austrian Grand Prix,False,RUS,43,2,False,2.0,45.0,"(41, 49)",2,1,2,37.0,2,2026
+1,2,Austrian Grand Prix,False,BOR,44,2,False,2.0,40.0,"(40, 42)",2,2,2,37.0,1,2026
+1,2,Austrian Grand Prix,False,BEA,45,1,False,2.0,48.0,"(44, 51)",2,1,2,37.5,2,2026
+2,2,Austrian Grand Prix,False,HUL,45,2,False,2.0,42.0,"(41, 45)",2,2,2,37.0,1,2026
+1,2,Austrian Grand Prix,False,LAW,45,1,False,2.0,45.0,"(41, 49)",2,1,2,37.0,2,2026
+1,2,Austrian Grand Prix,False,COL,46,1,False,2.0,45.0,"(42, 49)",2,1,2,38.0,2,2026
+1,2,Austrian Grand Prix,False,LIN,46,1,False,2.0,44.0,"(42, 48)",2,1,2,37.5,2,2026
+1,2,Austrian Grand Prix,False,NOR,47,2,False,2.0,46.0,"(43, 50)",2,1,2,38.0,2,2026
+1,2,Austrian Grand Prix,False,ALO,49,0,False,2.0,45.0,"(45, 50)",2,2,2,43.0,0,2026
+1,2,Austrian Grand Prix,False,VER,49,2,False,2.0,46.0,"(46, 48)",2,1,2,42.5,2,2026
+1,2,Austrian Grand Prix,False,ANT,51,2,False,0.0,50.0,"(47, 53)",2,1,2,43.0,2,2026
+1,2,Austrian Grand Prix,False,GAS,51,0,False,0.0,54.0,"(51, 57)",2,2,2,,1,2026
+0,2,Austrian Grand Prix,False,LEC,59,0,False,,,,2,1,2,,2,2026
+1,2,British Grand Prix,False,ALB,14,1,False,,,,2,1,2,,2,2026
+1,2,British Grand Prix,False,HUL,17,2,False,0.0,22.0,"(18, 26)",2,2,2,,1,2026
+1,2,British Grand Prix,False,VER,17,2,False,0.0,22.0,"(18, 26)",2,2,2,,1,2026
+1,2,British Grand Prix,False,STR,18,2,False,0.0,24.0,"(20, 28)",2,2,2,,1,2026
+1,2,British Grand Prix,False,HAD,19,2,False,0.0,25.0,"(21, 30)",2,2,2,,1,2026
+1,2,British Grand Prix,False,ALO,20,2,False,0.0,25.0,"(21, 30)",2,2,2,9.5,1,2026
+1,2,British Grand Prix,False,SAI,20,2,False,0.0,25.0,"(21, 30)",2,2,2,9.5,1,2026
+1,2,British Grand Prix,False,OCO,21,2,False,0.0,26.0,"(21, 30)",2,2,2,17.0,1,2026
+1,2,British Grand Prix,False,PER,21,2,False,0.0,26.0,"(21, 30)",2,2,2,17.0,1,2026
+1,2,British Grand Prix,False,COL,22,2,True,0.0,25.0,"(20, 29)",2,2,2,17.0,1,2026
+2,2,British Grand Prix,False,ALB,23,0,False,0.0,19.0,"(19, 19)",2,2,2,,1,2026
+2,2,British Grand Prix,False,GAS,23,2,False,0.0,23.0,"(19, 27)",2,2,2,17.5,1,2026
+2,2,British Grand Prix,False,HAM,23,2,False,0.0,23.0,"(19, 27)",2,2,2,17.5,1,2026
+2,2,British Grand Prix,False,RUS,23,2,False,0.0,23.0,"(19, 27)",2,2,2,17.5,1,2026
+2,2,British Grand Prix,False,LEC,25,2,False,0.0,22.0,"(22, 27)",2,2,2,19.0,1,2026
+2,2,British Grand Prix,False,BOR,26,2,False,0.0,22.0,"(22, 27)",2,2,2,20.0,1,2026
+2,2,British Grand Prix,False,LIN,27,2,False,0.0,23.0,"(23, 27)",2,2,2,20.0,1,2026
+2,2,British Grand Prix,False,LAW,28,2,False,0.0,24.0,"(24, 27)",2,2,2,20.0,1,2026
+2,2,British Grand Prix,False,NOR,28,2,False,0.0,24.0,"(24, 27)",2,2,2,20.0,1,2026
+2,2,British Grand Prix,False,BEA,29,2,False,0.0,25.0,"(25, 27)",2,2,2,20.5,1,2026
+2,2,British Grand Prix,False,BOT,29,2,False,0.0,25.0,"(25, 26)",2,2,2,21.0,1,2026
+1,2,British Grand Prix,False,HUL,34,0,False,0.0,30.0,"(30, 32)",2,1,2,,2,2026
+1,2,British Grand Prix,False,RUS,34,1,False,0.0,30.0,"(30, 34)",2,1,2,,2,2026
+1,2,British Grand Prix,False,ALB,35,0,False,,,,2,2,2,,0,2026
+2,2,British Grand Prix,False,ANT,35,2,False,0.0,32.0,"(32, 32)",2,2,2,22.0,1,2026
+1,2,British Grand Prix,False,PIA,36,1,False,0.0,32.0,"(32, 32)",2,1,2,34.0,2,2026
+1,2,British Grand Prix,False,HAD,38,1,False,0.0,34.0,"(34, 35)",2,0,2,34.0,2,2026
+1,2,British Grand Prix,False,NOR,38,1,False,,,,2,0,2,34.0,2,2026
+1,2,British Grand Prix,False,VER,38,1,False,0.0,34.0,"(34, 35)",2,0,2,34.0,2,2026
+1,2,British Grand Prix,False,ALB,40,0,False,,,,2,2,2,,0,2026
+0,2,British Grand Prix,False,ANT,41,1,False,,,,2,1,2,36.0,2,2026
+0,2,British Grand Prix,False,ALO,46,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,BOT,46,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,PER,46,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,STR,46,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,BEA,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,BOR,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,COL,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,HAD,47,0,False,,,,2,2,2,,1,2026
+0,2,British Grand Prix,False,LAW,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,LIN,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,OCO,47,0,False,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,PIA,47,0,False,,,,2,2,2,,1,2026
+0,2,British Grand Prix,False,GAS,48,0,True,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,HAM,48,0,True,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,LEC,48,0,True,,,,2,1,2,37.0,2,2026
+0,2,British Grand Prix,False,NOR,48,0,True,,,,2,2,2,,1,2026
+0,2,British Grand Prix,False,SAI,48,0,True,,,,2,1,2,38.0,2,2026
+1,2,Belgian Grand Prix,False,PER,12,2,False,0.0,22.0,"(18, 27)",2,2,2,,0,2026
+1,2,Belgian Grand Prix,False,GAS,14,2,False,0.0,21.0,"(16, 25)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,SAI,14,2,False,1.0,23.0,"(19, 28)",2,2,2,1.0,0,2026
+1,2,Belgian Grand Prix,False,COL,15,2,False,0.0,20.0,"(15, 24)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,LAW,15,2,False,0.0,20.0,"(15, 24)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,LIN,16,2,False,0.0,18.0,"(14, 23)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,OCO,16,2,False,,,,2,1,2,,2,2026
+1,1,Belgian Grand Prix,False,STR,17,0,False,0.0,20.0,"(15, 25)",2,1,2,1.0,2,2026
+1,2,Belgian Grand Prix,False,VER,17,2,False,0.0,18.0,"(14, 22)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,ALB,18,2,True,0.0,18.0,"(14, 22)",2,2,2,1.0,1,2026
+1,2,Belgian Grand Prix,False,ANT,18,0,True,0.0,18.0,"(15, 22)",2,2,2,1.0,1,2026
+1,1,Belgian Grand Prix,False,ALO,19,0,False,0.0,17.0,"(15, 22)",2,1,2,7.5,2,2026
+2,2,Belgian Grand Prix,False,BEA,20,2,True,0.0,16.0,"(16, 16)",2,0,2,12.0,2,2026
+2,2,Belgian Grand Prix,False,BOR,20,2,True,0.0,16.0,"(16, 16)",2,2,2,14.0,1,2026
+2,2,Belgian Grand Prix,False,HAD,20,2,True,0.0,16.0,"(16, 16)",2,0,2,,2,2026
+2,2,Belgian Grand Prix,False,HAM,20,2,True,0.0,16.0,"(16, 16)",2,2,2,14.0,1,2026
+2,2,Belgian Grand Prix,False,HUL,20,2,True,0.0,16.0,"(16, 16)",2,2,2,14.0,1,2026
+2,2,Belgian Grand Prix,False,LEC,20,2,True,0.0,16.0,"(16, 16)",2,2,2,14.0,1,2026
+2,2,Belgian Grand Prix,False,PIA,20,2,True,0.0,16.0,"(16, 16)",2,2,2,14.0,1,2026
+1,1,Belgian Grand Prix,False,NOR,30,1,False,0.0,26.0,"(26, 27)",2,0,2,16.5,2,2026
+1,2,Belgian Grand Prix,False,ALO,31,2,False,,,,2,2,2,14.0,0,2026
+1,2,Belgian Grand Prix,False,BOT,32,0,False,0.0,28.0,"(28, 29)",2,0,2,14.0,2,2026
+2,2,Hungarian Grand Prix,False,STR,8,1,False,1.0,30.0,"(25, 35)",2,2,2,,0,2026
+1,1,Hungarian Grand Prix,False,HAM,13,2,False,1.0,32.0,"(27, 37)",1,1,2,,0,2026
+1,2,Hungarian Grand Prix,False,VER,14,2,False,0.0,35.0,"(30, 39)",1,2,2,,1,2026
+1,2,Hungarian Grand Prix,False,COL,15,2,False,0.0,33.0,"(29, 38)",1,2,2,,1,2026
+1,2,Hungarian Grand Prix,False,GAS,16,2,False,0.0,18.0,"(13, 23)",1,2,2,,1,2026
+1,1,Hungarian Grand Prix,False,LEC,16,2,False,2.0,27.0,"(20, 32)",1,1,2,,0,2026
+1,2,Hungarian Grand Prix,False,PIA,16,2,False,0.0,18.0,"(13, 23)",1,2,2,,1,2026
+1,2,Hungarian Grand Prix,False,NOR,17,2,False,0.0,17.0,"(13, 22)",2,2,2,13.0,1,2026
+1,2,Hungarian Grand Prix,False,OCO,17,2,False,0.0,17.0,"(13, 22)",2,2,2,13.0,1,2026
+1,2,Hungarian Grand Prix,False,SAI,18,1,False,2.0,28.0,"(23, 34)",2,2,2,13.5,0,2026
+1,2,Hungarian Grand Prix,False,HAD,19,2,False,0.0,16.0,"(15, 21)",2,2,2,15.0,1,2026
+1,2,Hungarian Grand Prix,False,HUL,19,2,False,0.0,16.0,"(15, 21)",2,2,2,15.0,1,2026
+1,2,Hungarian Grand Prix,False,LIN,20,2,False,0.0,16.0,"(16, 19)",2,2,2,16.0,1,2026
+1,2,Hungarian Grand Prix,False,LAW,21,2,False,0.0,17.0,"(17, 19)",2,2,2,16.0,1,2026
+1,2,Hungarian Grand Prix,False,PER,21,0,False,0.0,17.0,"(17, 19)",2,2,2,16.0,1,2026
+1,2,Hungarian Grand Prix,False,ANT,22,2,False,2.0,19.0,"(19, 20)",2,2,2,16.0,1,2026
+1,2,Hungarian Grand Prix,False,BEA,22,2,False,2.0,18.0,"(18, 20)",2,2,2,16.0,1,2026
+1,2,Hungarian Grand Prix,False,ALB,26,2,False,2.0,22.0,"(22, 23)",2,2,2,17.0,1,2026
+1,2,Hungarian Grand Prix,False,RUS,27,2,False,2.0,23.0,"(23, 24)",2,2,2,17.0,1,2026
+2,2,Hungarian Grand Prix,False,BOR,29,2,False,2.0,31.0,"(26, 35)",2,2,2,17.5,0,2026
+2,2,Hungarian Grand Prix,False,HAM,30,2,False,0.0,40.0,"(36, 44)",2,1,2,,2,2026
+2,2,Hungarian Grand Prix,False,PIA,33,2,False,0.0,37.0,"(33, 41)",2,1,2,,2,2026
+2,2,Hungarian Grand Prix,False,ALO,34,1,False,1.0,30.0,"(30, 32)",2,2,2,18.5,0,2026
+2,2,Hungarian Grand Prix,False,OCO,35,2,False,0.0,37.0,"(34, 41)",2,1,2,,2,2026
+2,2,Hungarian Grand Prix,False,LEC,36,2,False,0.0,35.0,"(32, 39)",2,1,2,,2,2026
+2,2,Hungarian Grand Prix,False,COL,37,2,False,0.0,37.0,"(33, 41)",2,1,2,33.0,2,2026
+2,2,Hungarian Grand Prix,False,STR,37,0,False,0.0,34.0,"(33, 37)",2,2,2,,1,2026
+2,2,Hungarian Grand Prix,False,GAS,39,2,False,0.0,38.0,"(35, 42)",2,1,2,34.0,2,2026
+2,2,Hungarian Grand Prix,False,HUL,39,0,False,0.0,40.0,"(37, 43)",2,1,2,34.0,2,2026
+0,2,Hungarian Grand Prix,False,NOR,39,2,False,0.0,39.0,"(36, 42)",2,1,2,34.0,2,2026
+0,2,Hungarian Grand Prix,False,VER,41,0,False,0.0,37.0,"(37, 40)",2,1,2,35.5,2,2026
+0,2,Hungarian Grand Prix,False,BEA,42,2,False,0.0,42.0,"(39, 45)",2,1,2,37.0,2,2026
+0,2,Hungarian Grand Prix,False,HAD,42,2,False,0.0,40.0,"(38, 44)",2,1,2,37.0,2,2026
+0,2,Hungarian Grand Prix,False,LAW,42,0,False,0.0,41.0,"(38, 45)",2,1,2,37.0,2,2026
+0,2,Hungarian Grand Prix,False,SAI,43,0,False,0.0,42.0,"(39, 45)",2,2,2,37.0,1,2026
+0,2,Hungarian Grand Prix,False,ANT,53,2,False,0.0,49.0,"(49, 50)",2,0,2,39.0,2,2026
+0,2,Hungarian Grand Prix,False,ALB,54,0,False,0.0,50.0,"(50, 51)",2,0,2,39.0,2,2026
+0,2,Hungarian Grand Prix,False,RUS,54,2,False,0.0,50.0,"(50, 51)",2,0,2,39.0,2,2026
+0,2,Hungarian Grand Prix,False,SAI,54,0,False,,,,2,2,2,,0,2026
+0,2,Hungarian Grand Prix,False,ALO,55,0,False,0.0,51.0,"(51, 55)",2,2,2,39.0,1,2026
+0,2,Hungarian Grand Prix,False,GAS,55,0,False,,,,2,0,2,,2,2026
+0,2,Hungarian Grand Prix,False,HAM,56,0,True,0.0,52.0,"(52, 53)",2,0,2,,2,2026
+0,2,Hungarian Grand Prix,False,LEC,56,0,True,0.0,52.0,"(52, 55)",2,0,2,,2,2026
+0,2,Hungarian Grand Prix,False,NOR,56,0,True,,,,2,0,2,,2,2026
+2,1,Dutch Grand Prix,False,BOR,11,1,False,1.0,38.0,"(32, 43)",0,1,2,,0,2026
+1,1,Dutch Grand Prix,False,STR,15,2,False,1.0,59.0,"(53, 66)",0,1,2,8.0,0,2026
+1,0,Dutch Grand Prix,False,OCO,16,2,False,,,,0,1,2,8.0,0,2026
+1,0,Dutch Grand Prix,False,RUS,17,2,False,0.0,29.0,"(23, 34)",0,0,2,8.0,1,2026
+1,0,Dutch Grand Prix,False,GAS,18,2,False,0.0,32.0,"(27, 38)",0,0,2,9.5,1,2026
+1,0,Dutch Grand Prix,False,PIA,18,2,False,,,,0,0,2,9.5,2,2026
+1,1,Dutch Grand Prix,False,TSU,18,2,False,1.0,40.0,"(35, 45)",0,1,2,9.5,0,2026
+1,1,Dutch Grand Prix,False,HUL,19,0,False,1.0,42.0,"(37, 47)",0,1,2,11.0,0,2026
+1,0,Dutch Grand Prix,False,ANT,21,2,False,0.0,18.0,"(18, 22)",0,0,2,16.0,1,2026
+1,0,Dutch Grand Prix,False,COL,21,2,False,0.0,18.0,"(17, 23)",0,0,2,,1,2026
+1,2,Dutch Grand Prix,False,LAW,21,1,False,2.0,33.0,"(27, 39)",2,2,2,16.0,0,2026
+1,2,Dutch Grand Prix,False,LEC,21,1,False,2.0,33.0,"(27, 39)",2,2,2,16.0,0,2026
+1,2,Dutch Grand Prix,False,NOR,21,2,False,0.0,36.0,"(31, 40)",2,2,2,16.0,0,2026
+1,2,Dutch Grand Prix,False,HAM,25,2,False,0.0,26.0,"(22, 31)",2,2,2,18.0,0,2026
+1,0,Dutch Grand Prix,False,ALB,26,2,False,0.0,39.0,"(34, 44)",0,0,2,18.0,2,2026
+0,0,Dutch Grand Prix,False,BOT,28,2,False,0.0,24.0,"(24, 29)",2,0,2,18.0,2,2026
+0,2,Dutch Grand Prix,False,PER,29,2,False,0.0,25.0,"(25, 29)",2,0,2,18.0,2,2026
+2,2,Dutch Grand Prix,False,SAI,30,2,False,0.0,28.0,"(26, 32)",2,2,2,18.0,0,2026
+2,2,Dutch Grand Prix,False,ALO,34,2,False,2.0,32.0,"(30, 36)",2,2,2,19.0,0,2026
+2,2,Dutch Grand Prix,False,BOR,34,2,False,0.0,30.0,"(30, 42)",2,2,2,,1,2026
+2,2,Dutch Grand Prix,False,STR,35,2,False,0.0,45.0,"(41, 49)",2,0,2,,2,2026
+2,2,Dutch Grand Prix,False,LIN,36,2,False,0.0,32.0,"(32, 33)",2,2,2,,1,2026
+2,2,Dutch Grand Prix,False,OCO,36,2,False,0.0,45.0,"(41, 49)",2,0,2,,2,2026
+2,2,Dutch Grand Prix,False,ANT,40,2,False,0.0,43.0,"(40, 47)",2,0,2,35.0,2,2026
+2,2,Dutch Grand Prix,False,RUS,40,2,False,0.0,41.0,"(38, 45)",2,0,2,35.0,2,2026
+2,2,Dutch Grand Prix,False,LEC,43,2,False,0.0,44.0,"(41, 48)",2,2,2,36.0,1,2026
+0,2,Dutch Grand Prix,False,PIA,44,0,False,0.0,43.0,"(40, 47)",2,0,2,36.0,2,2026
+0,2,Dutch Grand Prix,False,TSU,44,0,False,0.0,43.0,"(40, 47)",2,0,2,36.0,2,2026
+0,2,Dutch Grand Prix,False,COL,45,0,False,0.0,46.0,"(42, 49)",2,0,2,,2,2026
+0,2,Dutch Grand Prix,False,GAS,46,1,False,0.0,44.0,"(42, 48)",2,0,2,38.0,2,2026
+0,2,Dutch Grand Prix,False,LAW,47,1,False,0.0,45.0,"(43, 49)",2,2,2,38.0,1,2026
+0,2,Dutch Grand Prix,False,NOR,47,2,False,0.0,45.0,"(44, 49)",2,0,2,38.0,2,2026
+1,2,Dutch Grand Prix,False,HUL,48,2,False,1.0,46.0,"(44, 49)",2,2,2,38.0,0,2026
+0,2,Dutch Grand Prix,False,ALB,49,1,False,0.0,48.0,"(45, 52)",2,0,2,40.0,2,2026
+0,0,Dutch Grand Prix,False,BOT,51,0,False,0.0,48.0,"(47, 52)",2,0,2,43.0,2,2026
+0,2,Dutch Grand Prix,False,PER,52,0,False,0.0,49.0,"(48, 53)",2,0,2,43.0,2,2026
+0,2,Dutch Grand Prix,False,BOR,53,0,False,0.0,52.0,"(49, 55)",2,0,2,,2,2026
+0,2,Dutch Grand Prix,False,HAM,55,0,True,0.0,52.0,"(52, 53)",2,0,2,44.0,2,2026
+0,2,Dutch Grand Prix,False,LEC,55,0,True,,,,2,0,2,,2,2026
+0,2,Dutch Grand Prix,False,PIA,55,0,True,,,,2,2,2,,0,2026
+0,2,Dutch Grand Prix,False,ANT,56,0,True,,,,2,0,2,,2,2026
+0,2,Dutch Grand Prix,False,SAI,65,0,False,0.0,61.0,"(61, 61)",2,0,2,44.0,2,2026
+1,2,Italian Grand Prix,False,LAW,12,1,False,,,,2,1,2,,2,2026
+2,2,Italian Grand Prix,False,BOT,27,0,False,,,,2,2,2,,1,2026
+2,2,Italian Grand Prix,False,HUL,27,1,False,,,,2,1,2,,2,2026
+2,2,Italian Grand Prix,False,OCO,27,1,False,,,,2,1,2,,2,2026
+2,2,Italian Grand Prix,False,PER,27,1,False,1.0,23.0,"(23, 27)",2,2,2,,0,2026
+2,2,Italian Grand Prix,False,SAI,27,1,False,,,,2,1,2,,2,2026
+2,2,Italian Grand Prix,False,ANT,28,1,True,,,,2,2,2,,1,2026
+2,2,Italian Grand Prix,False,VER,28,2,True,,,,2,2,2,,1,2026
+0,2,Italian Grand Prix,False,ALB,46,0,False,,,,2,1,2,27.0,2,2026
+1,2,Spanish Grand Prix,False,ALB,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,1,Spanish Grand Prix,False,ALO,14,0,True,0.0,36.0,"(30, 42)",2,1,2,,2,2026
+1,2,Spanish Grand Prix,False,ANT,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,2,Spanish Grand Prix,False,COL,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,2,Spanish Grand Prix,False,HUL,14,2,True,1.0,26.0,"(21, 31)",2,2,2,,0,2026
+1,2,Spanish Grand Prix,False,LIN,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,2,Spanish Grand Prix,False,OCO,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,2,Spanish Grand Prix,False,PER,14,2,True,0.0,31.0,"(26, 36)",2,2,2,,1,2026
+1,1,Spanish Grand Prix,False,RUS,14,1,True,0.0,36.0,"(30, 42)",2,1,2,,2,2026
+1,2,Spanish Grand Prix,False,VER,14,2,True,1.0,24.0,"(19, 29)",2,2,2,,0,2026
+1,2,Spanish Grand Prix,False,NOR,15,2,True,0.0,30.0,"(25, 35)",2,2,2,,1,2026
+1,0,Spanish Grand Prix,False,SAI,23,1,False,0.0,44.0,"(39, 50)",2,0,2,14.0,2,2026
+2,2,Spanish Grand Prix,False,RUS,28,2,False,2.0,24.0,"(24, 27)",2,2,2,,1,2026
+0,1,Spanish Grand Prix,False,BOT,29,2,False,0.0,43.0,"(38, 48)",2,1,2,14.0,2,2026
+2,2,Spanish Grand Prix,False,SAI,31,2,False,,,,2,2,2,,1,2026
+0,1,Spanish Grand Prix,False,BEA,33,1,False,0.0,42.0,"(37, 48)",2,1,2,14.0,2,2026
+1,1,Spanish Grand Prix,False,TSU,36,1,False,0.0,41.0,"(36, 47)",2,1,2,14.0,2,2026
+1,2,Spanish Grand Prix,False,ALO,37,2,False,,,,2,2,2,,0,2026
+0,1,Spanish Grand Prix,False,PIA,42,1,False,0.0,42.0,"(38, 48)",2,1,2,14.0,2,2026
+0,2,Spanish Grand Prix,False,BEA,43,2,False,,,,2,2,2,31.0,1,2026
+0,1,Spanish Grand Prix,False,BOT,43,0,False,0.0,44.0,"(39, 50)",2,1,2,31.0,2,2026
+0,1,Spanish Grand Prix,False,LAW,44,1,False,0.0,43.0,"(40, 49)",2,1,2,14.0,2,2026
+0,1,Spanish Grand Prix,False,BOR,47,0,False,0.0,46.0,"(43, 51)",2,1,2,14.0,2,2026
+0,1,Spanish Grand Prix,False,LEC,48,0,False,0.0,46.0,"(45, 52)",2,1,2,14.0,2,2026
+0,1,Spanish Grand Prix,False,GAS,55,0,False,0.0,51.0,"(51, 52)",2,1,2,14.0,2,2026
+1,2,Azerbaijan Grand Prix,False,SAI,20,0,False,0.0,20.0,"(16, 28)",2,2,2,,1,2026
+2,2,Azerbaijan Grand Prix,False,BOT,26,0,False,0.0,22.0,"(22, 24)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,ANT,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+1,2,Azerbaijan Grand Prix,False,BEA,30,1,False,1.0,42.0,"(35, 48)",0,2,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,BOR,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,COL,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,GAS,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,LIN,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,NOR,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+1,2,Azerbaijan Grand Prix,False,OCO,30,1,False,1.0,42.0,"(35, 48)",0,2,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,PER,30,0,False,0.0,26.0,"(26, 27)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,SAI,30,0,False,,,,0,2,2,,0,2026
+1,2,Azerbaijan Grand Prix,False,HAD,31,1,True,1.0,41.0,"(35, 48)",0,2,2,,0,2026
+1,2,Azerbaijan Grand Prix,False,HAM,31,1,True,1.0,41.0,"(35, 48)",0,2,2,,0,2026
+1,2,Azerbaijan Grand Prix,False,LAW,31,1,True,1.0,41.0,"(35, 48)",0,2,2,,0,2026
+1,2,Azerbaijan Grand Prix,False,LEC,31,1,True,1.0,41.0,"(35, 48)",0,2,2,,0,2026
+1,2,Azerbaijan Grand Prix,False,PIA,31,1,True,1.0,41.0,"(35, 48)",0,2,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,RUS,31,0,True,0.0,28.0,"(28, 29)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,VER,31,0,True,0.0,27.0,"(27, 28)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,HUL,32,0,True,0.0,28.0,"(28, 29)",0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,ANT,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,BEA,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,BOR,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,BOT,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,HAD,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,HAM,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,LAW,36,0,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,LEC,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,LIN,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,OCO,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,PER,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,PIA,36,1,True,,,,0,0,2,,1,2026
+0,0,Azerbaijan Grand Prix,False,RUS,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,SAI,36,0,True,,,,0,1,2,,0,2026
+0,0,Azerbaijan Grand Prix,False,VER,36,0,True,,,,0,1,2,,0,2026
+3,3,Bahrain Grand Prix,True,HUL,8,0,False,3.0,29.0,"(24, 33)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,ALB,9,0,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,ALO,9,2,True,0.0,23.0,"(18, 29)",3,3,2,2.0,1,2026
+1,2,Bahrain Grand Prix,True,ANT,9,1,True,0.0,6.0,"(6, 10)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,BOR,9,0,True,0.0,5.0,"(5, 8)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,COL,9,1,True,1.0,32.0,"(26, 37)",3,3,2,2.0,0,2026
+2,2,Bahrain Grand Prix,True,GAS,9,1,True,1.0,32.0,"(26, 37)",3,3,2,2.0,0,2026
+2,2,Bahrain Grand Prix,True,HAD,9,0,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,LAW,9,2,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,LEC,9,0,True,0.0,5.0,"(5, 9)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,LIN,9,2,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,NOR,9,2,True,0.0,23.0,"(18, 29)",3,3,2,2.0,1,2026
+2,2,Bahrain Grand Prix,True,OCO,9,0,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,PER,9,1,True,0.0,5.0,"(5, 8)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,PIA,9,2,True,0.0,5.0,"(5, 8)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,RUS,9,1,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,SAI,9,0,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+2,2,Bahrain Grand Prix,True,STR,9,2,True,0.0,5.0,"(5, 8)",3,2,2,,3,2026
+2,2,Bahrain Grand Prix,True,VER,9,0,True,0.0,5.0,"(5, 6)",3,2,2,2.0,3,2026
+1,2,Bahrain Grand Prix,True,BEA,10,1,True,1.0,40.0,"(34, 46)",3,3,2,2.0,0,2026
+1,0,Bahrain Grand Prix,True,BOR,15,2,False,,,,0,3,2,,0,2026
+1,0,Bahrain Grand Prix,True,ALB,16,2,False,,,,3,3,2,9.0,0,2026
+1,0,Bahrain Grand Prix,True,PER,18,2,False,,,,0,0,2,,1,2026
+2,2,Bahrain Grand Prix,True,BEA,24,2,False,,,,2,2,2,9.0,1,2026
+2,2,Bahrain Grand Prix,True,GAS,25,2,False,,,,2,2,2,9.0,1,2026
+2,2,Bahrain Grand Prix,True,SAI,26,2,False,2.0,22.0,"(22, 22)",2,2,2,9.0,0,2026
+2,2,Bahrain Grand Prix,True,LEC,28,0,False,2.0,24.0,"(24, 24)",2,2,2,,0,2026
+2,2,Bahrain Grand Prix,True,LIN,28,2,False,,,,2,0,2,9.0,2,2026
+2,2,Bahrain Grand Prix,True,STR,28,2,False,,,,2,0,2,,2,2026
+2,2,Bahrain Grand Prix,True,ALB,29,0,False,,,,2,3,2,,2,2026
+2,2,Bahrain Grand Prix,True,OCO,29,2,False,2.0,25.0,"(25, 25)",2,2,2,9.0,0,2026
+2,2,Bahrain Grand Prix,True,LAW,30,2,False,,,,2,0,2,9.0,2,2026
+2,2,Bahrain Grand Prix,True,ALO,31,0,False,,,,2,0,2,9.0,2,2026
+2,2,Bahrain Grand Prix,True,COL,31,2,False,2.0,27.0,"(27, 28)",2,2,2,9.0,1,2026
+2,2,Bahrain Grand Prix,True,HAD,31,0,False,2.0,27.0,"(27, 27)",2,2,2,9.0,0,2026
+2,2,Bahrain Grand Prix,True,HAM,31,1,False,2.0,27.0,"(27, 27)",2,2,2,9.0,0,2026
+0,2,Bahrain Grand Prix,True,HUL,32,0,False,2.0,28.0,"(28, 28)",2,2,2,28.0,0,2026
+0,2,Bahrain Grand Prix,True,RUS,32,0,False,2.0,28.0,"(28, 29)",2,2,2,12.5,1,2026
+0,2,Bahrain Grand Prix,True,ANT,33,0,False,2.0,29.0,"(29, 30)",2,2,2,16.0,1,2026
+0,2,Bahrain Grand Prix,True,PIA,33,2,False,,,,2,0,2,28.0,2,2026
+0,2,Bahrain Grand Prix,True,VER,33,0,False,2.0,30.0,"(30, 30)",2,2,2,16.0,0,2026
+0,2,Bahrain Grand Prix,True,BOR,34,0,False,,,,2,0,2,,2,2026
+0,2,Bahrain Grand Prix,True,NOR,34,0,False,,,,2,0,2,24.5,2,2026
+0,0,Bahrain Grand Prix,True,GAS,37,0,False,,,,0,0,2,28.0,2,2026
+0,0,Bahrain Grand Prix,True,PER,39,1,False,,,,0,0,2,,2,2026
+0,0,Bahrain Grand Prix,True,OCO,41,0,False,,,,0,0,2,28.5,2,2026
+0,0,Bahrain Grand Prix,True,COL,42,1,False,,,,0,0,2,28.5,2,2026
+0,0,Bahrain Grand Prix,True,SAI,42,0,False,,,,0,0,2,28.5,2,2026
+0,0,Bahrain Grand Prix,True,HAM,43,0,True,,,,0,0,2,27.0,1,2026
+0,0,Bahrain Grand Prix,True,LIN,43,0,True,,,,0,0,2,28.5,2,2026
+0,0,Bahrain Grand Prix,True,STR,43,0,True,,,,0,0,2,,2,2026
+0,2,Bahrain Grand Prix,True,VER,43,0,True,,,,2,2,2,28.5,0,2026
+0,0,Bahrain Grand Prix,True,ANT,44,0,True,,,,0,2,2,29.0,0,2026
+0,0,Bahrain Grand Prix,True,BOR,44,0,True,,,,0,2,2,,0,2026
+0,0,Bahrain Grand Prix,True,PER,44,0,True,,,,0,0,2,,1,2026
+0,0,Bahrain Grand Prix,True,RUS,44,0,True,,,,0,2,2,29.0,0,2026
+0,0,Bahrain Grand Prix,True,GAS,45,0,True,,,,0,2,2,34.0,0,2026
+0,0,Bahrain Grand Prix,True,HUL,45,0,True,,,,0,2,2,,0,2026
+0,0,Bahrain Grand Prix,True,LAW,45,0,True,,,,0,0,2,32.0,2,2026
+0,0,Bahrain Grand Prix,True,NOR,45,0,True,,,,0,2,2,32.0,0,2026
+0,0,Bahrain Grand Prix,True,PIA,45,1,True,,,,0,0,2,,2,2026

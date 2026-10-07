@@ -1,0 +1,367 @@
+<title>2026 Tyre Degradation Study</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600&family=Barlow:wght@400;500;600&display=swap">
+<style>
+/* Layout: verdict first, then evidence in a two-column grid that stacks on phones; tables last. */
+:root {
+  --bg: #f3f4f6; --surface: #fcfcfb; --line: #dfe1e6; --grid: #e9ebef;
+  --text: #0e1116; --text-2: #4b5160; --text-3: #7a8191;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a;
+  --warn-bg: #fdf1e7; --warn-line: #eb6834;
+  --t-soft: #d92d2d; --t-med: #d9a400; --t-hard: #8c93a3; --t-int: #1e9e4a; --t-wet: #2a78d6;
+  --must: #c8201f; --likely: #b85a00; --stay: #6b7280; --good: #0f7a3a;
+  --display: "Barlow Condensed", "Arial Narrow", Arial, sans-serif;
+  --body: "Barlow", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #111317; --surface: #1a1c21; --line: #2c3038; --grid: #25282f;
+    --text: #ffffff; --text-2: #c2c6d0; --text-3: #8d93a1;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70;
+    --warn-bg: #2a1d15; --warn-line: #d95926; color-scheme: dark;
+    --t-soft: #f0605f; --t-med: #f2c230; --t-hard: #c9ced8; --t-int: #45c46e; --t-wet: #5b9df0;
+    --must: #ff6b6a; --likely: #ffa64d; --stay: #9aa1af; --good: #4cc97f;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #111317; --surface: #1a1c21; --line: #2c3038; --grid: #25282f;
+  --text: #ffffff; --text-2: #c2c6d0; --text-3: #8d93a1;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70;
+  --warn-bg: #2a1d15; --warn-line: #d95926; color-scheme: dark;
+    --t-soft: #f0605f; --t-med: #f2c230; --t-hard: #c9ced8; --t-int: #45c46e; --t-wet: #5b9df0;
+    --must: #ff6b6a; --likely: #ffa64d; --stay: #9aa1af; --good: #4cc97f;
+}
+body { background: var(--bg); color: var(--text); font-family: var(--body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1120px; margin: 0 auto; padding-inline: 16px; padding-block: 28px 56px; display: flex; flex-direction: column; gap: 20px; }
+h1 { font-family: var(--display); font-weight: 600; font-size: clamp(30px, 5vw, 44px); line-height: 1.05; margin: 0; letter-spacing: .01em; text-wrap: balance; }
+h2 { font-family: var(--display); font-weight: 600; font-size: 22px; margin: 0; letter-spacing: .02em; }
+.sub { color: var(--text-2); margin: 6px 0 0; max-width: 68ch; }
+.verdict { background: var(--warn-bg); border-left: 4px solid var(--warn-line); padding: 14px 16px; }
+.verdict strong { font-family: var(--display); font-size: 20px; font-weight: 600; letter-spacing: .02em; display: block; }
+.verdict p { margin: 4px 0 0; color: var(--text-2); max-width: 75ch; }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); gap: 12px; }
+.stat { background: var(--surface); border: 1px solid var(--line); padding: 12px 14px; }
+.stat b { font-family: var(--display); font-size: 34px; font-weight: 600; line-height: 1; display: block; font-variant-numeric: tabular-nums; }
+.stat span { color: var(--text-2); font-size: 13px; }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 420px), 1fr)); gap: 20px; }
+.panel { background: var(--surface); border: 1px solid var(--line); padding: 16px; min-width: 0; display: flex; flex-direction: column; gap: 10px; }
+.panel p { margin: 0; color: var(--text-2); font-size: 14px; max-width: 70ch; }
+.bar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; justify-content: space-between; }
+.seg { display: inline-flex; border: 1px solid var(--line); }
+.seg button { font: 500 14px var(--body); padding: 6px 14px; background: transparent; color: var(--text-2); border: 0; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--bg); }
+.seg button:focus-visible { outline: 2px solid var(--s1); outline-offset: 2px; }
+svg { display: block; width: 100%; height: auto; overflow: visible; }
+svg text { font-family: var(--body); font-size: 12px; fill: var(--text-2); font-variant-numeric: tabular-nums; }
+svg .name { fill: var(--text); font-weight: 500; }
+svg .tick { fill: var(--text-3); font-size: 11px; }
+.legend { display: flex; flex-wrap: wrap; gap: 14px; font-size: 13px; color: var(--text-2); }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; font-size: 14px; }
+th, td { padding: 6px 10px; text-align: right; border-bottom: 1px solid var(--grid); white-space: nowrap; }
+th:first-child, td:first-child { text-align: left; }
+th { color: var(--text-3); font-weight: 500; font-size: 12px; text-transform: uppercase; letter-spacing: .06em; }
+ul { margin: 0; padding-left: 18px; color: var(--text-2); font-size: 14px; display: flex; flex-direction: column; gap: 6px; max-width: 75ch; }
+.pill { font: 600 11.5px var(--body); letter-spacing: .05em; padding: 2px 8px; border: 1px solid currentColor; border-radius: 3px; white-space: nowrap; }
+.pill.must { color: var(--must); } .pill.likely { color: var(--likely); } .pill.stay { color: var(--stay); }
+.dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: baseline; }
+.ok { color: var(--good); font-weight: 600; } .miss { color: var(--must); font-weight: 600; } .dim { color: var(--text-3); }
+.lapbar { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; }
+.lapbar input[type=range] { flex: 1 1 220px; min-width: 0; accent-color: var(--s1); }
+.lapbar button { font: 500 14px var(--body); padding: 5px 12px; background: transparent; color: var(--text); border: 1px solid var(--line); cursor: pointer; }
+.lapbar button:focus-visible, .lapbar input:focus-visible { outline: 2px solid var(--s1); outline-offset: 2px; }
+.lapno { font-family: var(--display); font-size: 26px; font-weight: 600; min-width: 5.5em; font-variant-numeric: tabular-nums; }
+.flag { font: 600 12px var(--body); letter-spacing: .05em; padding: 3px 9px; background: var(--likely); color: var(--surface); border-radius: 3px; }
+#pred td { text-align: left; } #pred th { text-align: left; }
+hr.rule { border: 0; border-top: 1px solid var(--line); margin: 8px 0 0; width: 100%; }
+#tip { position: fixed; pointer-events: none; background: var(--text); color: var(--bg); font-size: 12.5px; line-height: 1.4; padding: 6px 9px; border-radius: 4px; z-index: 5; max-width: 240px; font-variant-numeric: tabular-nums; }
+.note { font-size: 12.5px; color: var(--text-3); }
+</style>
+
+<div class="wrap">
+  <header>
+    <h1>2026 Tyre Degradation Study</h1>
+    <p class="sub">Two parts: the Strategy Predictor replayed on the Madrid race, then the season-long tyre wear study that shaped how it works.</p>
+  </header>
+
+  <section class="panel">
+    <h2>Strategy Predictor on the Madrid race</h2>
+    <p>What the insight window would have shown on each lap of the 2026 Spanish Grand Prix at the Madring, using only what was known at that lap. The last column is what the car really did next. Drag the lap slider to move through the race.</p>
+    <div class="stats">
+      <div class="stat"><b>82%</b><span>stop-or-stay call correct across 40 races (60% by guessing)</span></div>
+      <div class="stat"><b>69%</b><span>next tyre correct in dry races (63% for &ldquo;always hard&rdquo;)</span></div>
+      <div class="stat"><b>4 laps</b><span>median error on the stop lap (8 for a naive guess)</span></div>
+      <div class="stat"><b id="m-stop"></b><span id="m-stop-label"></span></div>
+    </div>
+    <div class="lapbar">
+      <span class="lapno" id="lapno"></span>
+      <button id="lap-prev" aria-label="Previous lap">&larr;</button>
+      <input type="range" id="lap" aria-label="Lap">
+      <button id="lap-next" aria-label="Next lap">&rarr;</button>
+      <span class="flag" id="flag" hidden></span>
+    </div>
+    <p id="lap-summary"></p>
+    <div class="scroll"><table id="pred"></table></div>
+    <span class="note">Stop call: Must stop = has not used two dry compounds; Likely = this set is not expected to reach the end; Stays out = should reach the end. Across the 40 test races those calls were followed by a stop 99.6%, 65% and 21% of the time.</span>
+  </section>
+
+  <hr class="rule">
+  <header>
+    <h2>Why the predictor uses rules: the degradation study</h2>
+    <p class="sub">The first idea was to tailor strategy to each driver's tyre wear. The data below is why that was dropped.</p>
+  </header>
+
+  <div class="verdict">
+    <strong>No stable per-driver or per-team trend</strong>
+    <p>The gaps between drivers (about 0.01 to 0.02 s/lap) are far smaller than the stint-to-stint scatter (about 0.09 s/lap), and a driver's figure from odd rounds does not predict the figure from even rounds. Degradation is only reliable as one field-wide value per race and compound.</p>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><b>16</b><span>races analysed</span></div>
+    <div class="stat"><b>727</b><span>dry stints, median 14 laps</span></div>
+    <div class="stat"><b>0.10</b><span>driver consistency between season halves (1.0 = perfect)</span></div>
+    <div class="stat"><b>&minus;0.01</b><span>team consistency between season halves</span></div>
+  </div>
+
+  <div class="bar">
+    <h2>Drivers and teams against the field</h2>
+    <div class="seg" role="group" aria-label="Group by">
+      <button id="by-teams" aria-pressed="true">Teams</button>
+      <button id="by-drivers" aria-pressed="false">Drivers</button>
+    </div>
+  </div>
+
+  <div class="grid2">
+    <section class="panel">
+      <h2>Degradation relative to the field</h2>
+      <p>Difference from the field median in the same race and compound, in seconds per lap. Left is kinder on tyres. The bar is one standard error either side; almost every bar crosses zero.</p>
+      <div id="interval"></div>
+    </section>
+    <section class="panel">
+      <h2>Does the first half predict the second?</h2>
+      <p>Each point is one <span id="unit">team</span>: odd rounds across, even rounds up. A real trait would line up along the diagonal. These don't.</p>
+      <div id="scatter"></div>
+      <span class="note" id="scatter-note"></span>
+    </section>
+  </div>
+
+  <section class="panel">
+    <h2>Field degradation by race</h2>
+    <p>Median stint slope per compound. Barcelona and Bahrain were the high-wear races. Negative values (Monaco softs, Australia mediums) are traffic and track evolution swamping tyre wear, not tyres getting faster.</p>
+    <div class="legend"><span><i style="background:var(--s1)"></i>Soft</span><span><i style="background:var(--s2)"></i>Medium</span><span><i style="background:var(--s3)"></i>Hard</span></div>
+    <div id="races"></div>
+  </section>
+
+  <section class="panel">
+    <h2>Lap-weighted averages by tyre</h2>
+    <p>Absolute seconds per lap, weighted by stint length, as in the f1pace method. Field averages: soft 0.049, medium 0.053, hard 0.061. Hards showing more wear than softs is backwards physically; it reflects short managed soft stints and long hard ones.</p>
+    <div class="scroll"><table id="table"></table></div>
+  </section>
+
+  <div class="grid2">
+    <section class="panel">
+      <h2>Strategy model backtest</h2>
+      <p>Mean position error against the final result, checked every 5 laps of 23 races from 2024. Lower is better.</p>
+      <div class="legend"><span><i style="background:var(--s1)"></i>Current running order</span><span><i style="background:var(--s2)"></i>Model's projected order</span></div>
+      <div id="backtest"></div>
+    </section>
+    <section class="panel">
+      <h2>What this means</h2>
+      <ul>
+        <li>A per-driver or per-car wear rate should not go into the strategy model. Adding one inside a single race made the projected order worse in the backtest.</li>
+        <li>Lap-time slope measures how the driver chose to run the stint. A car that is hard on tyres often shows a flat slope because the driver backs off.</li>
+        <li>The projected order beats the running order in dry races, by 12% on the races used for tuning and 4% on held-out races. Most of the gain is mid-race.</li>
+        <li>Wet races and the first quarter of any race are not reliable yet.</li>
+        <li>Car differences that may be measurable instead: base pace, and how long each team's stints last before pitting.</li>
+      </ul>
+    </section>
+  </div>
+</div>
+<div id="tip" hidden></div>
+
+<script>
+const DATA = __DATA__;
+const MADRID = __MADRID__;
+const NS = "http://www.w3.org/2000/svg";
+const tip = document.getElementById("tip");
+const fmt = (v, d = 3) => (v > 0 ? "+" : v < 0 ? "−" : "") + Math.abs(v).toFixed(d);
+const plain = (v, d = 3) => v == null ? "–" : (v < 0 ? "−" : "") + Math.abs(v).toFixed(d);
+
+function el(name, attrs, parent, text) {
+  const node = document.createElementNS(NS, name);
+  for (const k in attrs) node.setAttribute(k, attrs[k]);
+  if (text != null) node.textContent = text;
+  if (parent) parent.appendChild(node);
+  return node;
+}
+function hover(node, html) {
+  node.addEventListener("pointermove", e => {
+    tip.innerHTML = html; tip.hidden = false;
+    const w = tip.offsetWidth, x = Math.min(e.clientX + 12, window.innerWidth - w - 8);
+    tip.style.left = Math.max(8, x) + "px"; tip.style.top = (e.clientY + 14) + "px";
+  });
+  node.addEventListener("pointerleave", () => { tip.hidden = true; });
+}
+function svg(host, w, h) {
+  host.innerHTML = "";
+  return el("svg", { viewBox: `0 0 ${w} ${h}`, role: "img" }, host);
+}
+function xAxis(s, x, ticks, top, bottom, label) {
+  ticks.forEach(t => {
+    el("line", { x1: x(t), x2: x(t), y1: top, y2: bottom, stroke: t === 0 ? "var(--text-3)" : "var(--grid)", "stroke-width": 1 }, s);
+    el("text", { x: x(t), y: bottom + 15, "text-anchor": "middle", class: "tick" }, s, t === 0 ? "0" : fmt(t, 2));
+  });
+  if (label) el("text", { x: x(ticks[ticks.length - 1]), y: bottom + 31, "text-anchor": "end", class: "tick" }, s, label);
+}
+
+function drawInterval(rows) {
+  const W = 520, left = 108, right = 16, top = 6, rowH = rows.length > 12 ? 19 : 24;
+  const bottom = top + rows.length * rowH, H = bottom + 36;
+  const max = 0.045, x = v => left + (v + max) / (2 * max) * (W - left - right);
+  const s = svg(document.getElementById("interval"), W, H);
+  xAxis(s, x, [-0.04, -0.02, 0, 0.02, 0.04], top, bottom, "s/lap vs field");
+  rows.forEach((r, i) => {
+    const y = top + i * rowH + rowH / 2;
+    el("text", { x: left - 10, y: y + 4, "text-anchor": "end", class: "name" }, s, r.name);
+    el("line", { x1: x(Math.max(-max, r.delta - r.se)), x2: x(Math.min(max, r.delta + r.se)), y1: y, y2: y, stroke: "var(--s1)", "stroke-width": 2, "stroke-linecap": "round", opacity: .55 }, s);
+    el("circle", { cx: x(r.delta), cy: y, r: 4.5, fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2 }, s);
+    const hit = el("rect", { x: 0, y: y - rowH / 2, width: W, height: rowH, fill: "transparent" }, s);
+    hover(hit, `<b>${r.name}</b>${r.team ? " · " + r.team : ""}<br>${fmt(r.delta, 4)} s/lap vs field<br>±${r.se.toFixed(4)} · ${r.stints} stints, ${r.races} races`);
+  });
+}
+
+function drawScatter(rows) {
+  rows = rows.filter(r => r.odd != null && r.even != null);
+  const W = 520, H = 400, left = 46, right = 16, top = 10, bottom = H - 46;
+  const max = Math.max(0.03, ...rows.map(r => Math.max(Math.abs(r.odd), Math.abs(r.even)))) * 1.15;
+  const x = v => left + (v + max) / (2 * max) * (W - left - right);
+  const y = v => bottom - (v + max) / (2 * max) * (bottom - top);
+  const s = svg(document.getElementById("scatter"), W, H);
+  const step = max > 0.045 ? 0.04 : 0.02, ticks = [];
+  for (let t = -Math.floor(max / step) * step; t <= max + 1e-9; t += step) ticks.push(Math.round(t * 100) / 100);
+  xAxis(s, x, ticks, top, bottom, "odd rounds, s/lap vs field");
+  ticks.forEach(t => {
+    el("line", { x1: left, x2: W - right, y1: y(t), y2: y(t), stroke: t === 0 ? "var(--text-3)" : "var(--grid)", "stroke-width": 1 }, s);
+    el("text", { x: left - 6, y: y(t) + 4, "text-anchor": "end", class: "tick" }, s, t === 0 ? "0" : fmt(t, 2));
+  });
+  el("text", { x: left, y: top + 2, class: "tick" }, s, "even rounds");
+  el("line", { x1: x(-max), y1: y(-max), x2: x(max), y2: y(max), stroke: "var(--text-3)", "stroke-width": 1, "stroke-dasharray": "4 4" }, s);
+  el("text", { x: x(max) - 4, y: y(max) + 14, "text-anchor": "end", class: "tick" }, s, "perfect agreement");
+  rows.forEach(r => {
+    const short = r.name.length > 4 ? r.name.replace(" F1 Team", "").replace(" Racing", "") : r.name;
+    el("text", { x: x(r.odd) + 7, y: y(r.even) + 4, class: "tick" }, s, short);
+    const dot = el("circle", { cx: x(r.odd), cy: y(r.even), r: 5, fill: "var(--s1)", stroke: "var(--surface)", "stroke-width": 2 }, s);
+    const hit = el("circle", { cx: x(r.odd), cy: y(r.even), r: 12, fill: "transparent" }, s);
+    hover(hit, `<b>${r.name}</b><br>odd rounds ${fmt(r.odd, 4)}<br>even rounds ${fmt(r.even, 4)}`);
+  });
+  const n = rows.length, mx = rows.reduce((a, r) => a + r.odd, 0) / n, my = rows.reduce((a, r) => a + r.even, 0) / n;
+  let sxy = 0, sxx = 0, syy = 0;
+  rows.forEach(r => { sxy += (r.odd - mx) * (r.even - my); sxx += (r.odd - mx) ** 2; syy += (r.even - my) ** 2; });
+  document.getElementById("scatter-note").textContent = `Correlation ${plain(sxy / Math.sqrt(sxx * syy), 2)} across ${n} with at least 3 stints in each half.`;
+}
+
+function drawRaces(rows) {
+  const W = 760, left = 150, right = 20, top = 6, rowH = 22, bottom = top + rows.length * rowH, H = bottom + 36;
+  const lo = -0.16, hi = 0.26, x = v => left + (v - lo) / (hi - lo) * (W - left - right);
+  const s = svg(document.getElementById("races"), W, H);
+  xAxis(s, x, [-0.1, 0, 0.1, 0.2], top, bottom, "median stint slope, s/lap");
+  const series = [["S", "Soft", "var(--s1)"], ["M", "Medium", "var(--s2)"], ["H", "Hard", "var(--s3)"]];
+  rows.forEach((r, i) => {
+    const y = top + i * rowH + rowH / 2;
+    el("text", { x: left - 10, y: y + 4, "text-anchor": "end", class: "name" }, s, `R${r.round} ${r.race}`);
+    const vals = series.filter(([k]) => r[k] != null).map(([k]) => r[k]);
+    if (vals.length > 1) el("line", { x1: x(Math.min(...vals)), x2: x(Math.max(...vals)), y1: y, y2: y, stroke: "var(--line)", "stroke-width": 2 }, s);
+    series.forEach(([k, , colour]) => {
+      if (r[k] != null) el("circle", { cx: x(r[k]), cy: y, r: 5, fill: colour, stroke: "var(--surface)", "stroke-width": 2 }, s);
+    });
+    const hit = el("rect", { x: 0, y: y - rowH / 2, width: W, height: rowH, fill: "transparent" }, s);
+    hover(hit, `<b>${r.race}</b> · ${r.stints} stints<br>` + series.map(([k, n]) => `${n} ${r[k] == null ? "too few stints" : fmt(r[k])}`).join("<br>"));
+  });
+}
+
+function drawTable(rows, label) {
+  const sorted = [...rows].sort((a, b) => a.abs - b.abs);
+  document.getElementById("table").innerHTML =
+    `<thead><tr><th>${label}</th><th>All tyres</th><th>Soft</th><th>Medium</th><th>Hard</th><th>vs field</th><th>Stints</th><th>Races</th></tr></thead><tbody>` +
+    sorted.map(r => `<tr><td>${r.name}</td><td>${plain(r.abs)}</td><td>${plain(r.S)}</td><td>${plain(r.M)}</td><td>${plain(r.H)}</td><td>${fmt(r.delta)}</td><td>${r.stints}</td><td>${r.races}</td></tr>`).join("") + "</tbody>";
+}
+
+function drawBacktest() {
+  const sets = [["10 dry races (tuned on)", 1.56, 1.37], ["11 dry races (held out)", 1.83, 1.75], ["2 wet races", 1.29, 1.42]];
+  const W = 520, left = 150, right = 44, top = 4, groupH = 62, H = top + sets.length * groupH + 6;
+  const x = v => left + v / 2 * (W - left - right);
+  const s = svg(document.getElementById("backtest"), W, H);
+  el("line", { x1: left, x2: left, y1: top, y2: H - 6, stroke: "var(--text-3)", "stroke-width": 1 }, s);
+  sets.forEach(([name, naive, proj], i) => {
+    const y = top + i * groupH + 8;
+    el("text", { x: left - 10, y: y + 22, "text-anchor": "end", class: "name" }, s, name.split(" (")[0]);
+    if (name.includes("(")) el("text", { x: left - 10, y: y + 37, "text-anchor": "end", class: "tick" }, s, "(" + name.split(" (")[1]);
+    [[naive, "var(--s1)", "Current running order"], [proj, "var(--s2)", "Model's projected order"]].forEach(([v, colour, label], j) => {
+      const by = y + j * 20, w = x(v) - left;
+      const bar = el("path", { d: `M${left},${by} h${w - 4} a4,4 0 0 1 4,4 v10 a4,4 0 0 1 -4,4 h${-(w - 4)} z`, fill: colour }, s);
+      el("text", { x: x(v) + 6, y: by + 13, class: "name" }, s, v.toFixed(2));
+      hover(bar, `<b>${name}</b><br>${label}: ${v.toFixed(2)} places off on average`);
+    });
+  });
+}
+
+const TYRES = [["Soft", "var(--t-soft)"], ["Medium", "var(--t-med)"], ["Hard", "var(--t-hard)"], ["Inter", "var(--t-int)"], ["Wet", "var(--t-wet)"]];
+const tyre = (t, extra = "") => `<span class="dot" style="background:${TYRES[t][1]}"></span>${TYRES[t][0]}${extra}`;
+const CALLS = { must_stop: ["MUST STOP", "must"], likely_stop: ["LIKELY", "likely"], likely_stay_out: ["STAYS OUT", "stay"] };
+
+function drawLap(lap) {
+  const row = MADRID.laps.find(l => l.lap === lap);
+  if (!row) return;
+  document.getElementById("lapno").textContent = `Lap ${lap + 1} / ${MADRID.total}`;
+  const flag = document.getElementById("flag");
+  flag.hidden = !row.status;
+  flag.textContent = row.status === "4" ? "SAFETY CAR" : row.status === "5" ? "RED FLAG" : "VIRTUAL SAFETY CAR";
+  const cheap = row.lossNow < row.loss - 0.5 ? ` (${row.lossNow.toFixed(0)} s right now)` : "";
+  document.getElementById("lap-summary").textContent =
+    `A pit stop costs about ${row.loss.toFixed(0)} s${cheap}. Sets expected to last: soft ${row.life[0]} laps, medium ${row.life[1]}, hard ${row.life[2]}. Track: ${row.cond.toLowerCase()}.`;
+  const body = row.cars.map(c => {
+    const stays = c.call === "likely_stay_out";
+    const next = stays || !c.n.length ? '<span class="dim">\u2013</span>'
+      : tyre(c.n[0]) + (c.n.length > 1 ? ` <span class="dim">(or ${TYRES[c.n[1]][0]})</span>` : "");
+    const win = stays || !c.w ? '<span class="dim">\u2013</span>' : c.w[0] === c.w[1] ? `Lap ${c.w[0]}` : `Laps ${c.w[0]}\u2013${c.w[1]}`;
+    const rejoin = c.free ? '<span class="ok">Free stop</span>' : `P${c.p + c.pl} <span class="dim">(\u2212${c.pl})</span>`;
+    let what;
+    if (c.actual) {
+      const tyreOk = !stays && c.n.length && c.n[0] === c.actual[1];
+      what = `Stopped lap ${c.actual[0]} for ${tyre(c.actual[1])} ` +
+        (stays ? '<span class="miss">\u2717 stop not expected</span>'
+          : tyreOk ? '<span class="ok">\u2713 tyre right</span>' : '<span class="miss">\u2717 tyre wrong</span>');
+    } else {
+      what = "No further stop " + (stays ? '<span class="ok">\u2713</span>' : '<span class="miss">\u2717 stop expected</span>');
+    }
+    const threat = c.uc ? ` <span class="dim">\u00b7 ${c.uc[0]} ${c.uc[1].toFixed(1)} s behind</span>` : "";
+    return `<tr><td>${c.p}</td><td><b>${c.c}</b></td><td>${tyre(c.t, ` <span class="dim">${c.a} laps</span>`)}</td>` +
+      `<td><span class="pill ${CALLS[c.call][1]}">${CALLS[c.call][0]}</span></td><td>${next}</td><td>${win}</td><td>${rejoin}${threat}</td><td>${what}</td></tr>`;
+  }).join("");
+  document.getElementById("pred").innerHTML =
+    "<thead><tr><th>P</th><th>Driver</th><th>Tyre</th><th>Stop again?</th><th>Likely tyre</th><th>Window</th><th>If they stop now</th><th>What happened</th></tr></thead><tbody>" + body + "</tbody>";
+}
+(function initLap() {
+  const input = document.getElementById("lap"), laps = MADRID.laps.map(l => l.lap);
+  input.min = laps[0]; input.max = laps[laps.length - 1]; input.step = 1; input.value = 12;
+  const go = v => { input.value = Math.max(+input.min, Math.min(+input.max, v)); drawLap(+input.value); };
+  input.addEventListener("input", () => drawLap(+input.value));
+  document.getElementById("lap-prev").addEventListener("click", () => go(+input.value - 1));
+  document.getElementById("lap-next").addEventListener("click", () => go(+input.value + 1));
+  document.getElementById("m-stop").textContent = Math.round(MADRID.score.stop * 100) + "%";
+  document.getElementById("m-stop-label").textContent =
+    `stop-or-stay call correct in this race; next tyre right for ${Math.round(MADRID.score.tyre * MADRID.score.tyreStops)} of ${MADRID.score.tyreStops} stops`;
+  drawLap(12);
+})();
+
+function render(key) {
+  const rows = DATA[key];
+  drawInterval(rows); drawScatter(rows); drawTable(rows, key === "teams" ? "Team" : "Driver");
+  document.getElementById("unit").textContent = key === "teams" ? "team" : "driver";
+  document.getElementById("by-teams").setAttribute("aria-pressed", key === "teams");
+  document.getElementById("by-drivers").setAttribute("aria-pressed", key === "drivers");
+}
+document.getElementById("by-teams").addEventListener("click", () => render("teams"));
+document.getElementById("by-drivers").addEventListener("click", () => render("drivers"));
+drawRaces(DATA.races); drawBacktest(); render("teams");
+</script>

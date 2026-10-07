@@ -351,8 +351,12 @@ def get_driver_colors(session):
     return rgb_colors
 
 def get_circuit_rotation(session):
-    circuit = session.get_circuit_info()
-    return circuit.rotation
+    # FastF1 has no circuit info for some new tracks (e.g. Madrid 2026)
+    try:
+        circuit = session.get_circuit_info()
+        return circuit.rotation
+    except Exception:
+        return 0.0
 
 
 def _compute_safety_car_positions(frames, track_statuses, session):
